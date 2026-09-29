@@ -1,0 +1,27 @@
+Stage,Phylum,n_taxa,mean_prevalence,total_prevalence
+Before prevalence filter,Actinomycetota,40,3.525,141
+Before prevalence filter,Bacillota,1516,4.17282321899736,6326
+Before prevalence filter,Bacteroidota,292,4.40068493150685,1285
+Before prevalence filter,Campylobacterota,4,1,4
+Before prevalence filter,Cyanobacteriota,10,1.3,13
+Before prevalence filter,Elusimicrobiota,1,1,1
+Before prevalence filter,Fusobacteriota,11,1.18181818181818,13
+Before prevalence filter,Methanobacteriota,4,5.5,22
+Before prevalence filter,Patescibacteria,1,1,1
+Before prevalence filter,Pseudomonadota,71,3.16901408450704,225
+Before prevalence filter,Spirochaetota,1,1,1
+Before prevalence filter,Synergistota,7,2.85714285714286,20
+Before prevalence filter,Thermodesulfobacteriota,29,2.96551724137931,86
+Before prevalence filter,Thermoplasmatota,3,3,9
+Before prevalence filter,Verrucomicrobiota,38,3.84210526315789,146
+After prevalence filter,Actinomycetota,18,6.61111111111111,119
+After prevalence filter,Bacillota,784,7.13520408163265,5594
+After prevalence filter,Bacteroidota,178,6.57865168539326,1171
+After prevalence filter,Cyanobacteriota,3,2,6
+After prevalence filter,Fusobacteriota,2,2,4
+After prevalence filter,Methanobacteriota,3,7,21
+After prevalence filter,Pseudomonadota,26,6.92307692307692,180
+After prevalence filter,Synergistota,2,7.5,15
+After prevalence filter,Thermodesulfobacteriota,17,4.35294117647059,74
+After prevalence filter,Thermoplasmatota,3,3,9
+After prevalence filter,Verrucomicrobiota,28,4.85714285714286,136

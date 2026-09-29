@@ -1,0 +1,23 @@
+Library size (reads per sample)
+
+All samples (n = 40): median (IQR; min-max) = 51876 (43943-57803; 18229-172249)
+
+By group:
+  T0 (n = 20): median (IQR; min-max) = 49392 (42820-53083; 18229-103495)
+  T12 (n = 20): median (IQR; min-max) = 54549 (47782-66280; 38678-172249)
+
+Paired Wilcoxon signed-rank test (T12 vs T0):
+  V = 154, p = 0.0696
+  T12 deeper than T0 in 13 of 20 patients
+
+By sequencing run:
+  Run 1 (n = 26): median (IQR; min-max) = 52438 (44190-62934; 18229-172249)
+  Run 2 (n = 14): median (IQR; min-max) = 49146 (44526-53474; 38678-66962)
+
+Wilcoxon rank-sum test (Run 1 vs Run 2): W = 224, p = 0.243
+
+Samples per run and group:
+   Group
+Run T0 T12
+  1 13  13
+  2  7   7

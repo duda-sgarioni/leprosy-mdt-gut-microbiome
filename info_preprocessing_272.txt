@@ -1,0 +1,18 @@
+DADA2 preprocessing summary
+Run 1:
+  Samples: 26 
+  Unique ASVs: 5186 
+
+Run 2:
+  Samples: 14 
+  Unique ASVs: 2010 
+
+Merged sequence table:
+  Samples: 40 
+  Unique ASVs: 6170 
+
+After chimera removal:
+  Samples: 40 
+  Unique ASVs: 2038 
+  Chimeric ASVs removed: 4132 (67.0%) 
+  Non-chimeric reads retained: 88.23 %

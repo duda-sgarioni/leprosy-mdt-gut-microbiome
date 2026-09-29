@@ -1,0 +1,1065 @@
+ASV,Kingdom,Phylum,Class,Order,Family,Genus,Abundance_all,Abundance_T0,Abundance_T12
+ASV2,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,6.71938558871325,7.09129462445983,6.34747655296668
+ASV1,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,6.25685546309572,5.21930819700345,7.29440272918799
+ASV3,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,3.36004959545554,1.93890533006104,4.78119386085005
+ASV5,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,3.34677813518614,3.26116404373525,3.43239222663703
+ASV8,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Succinivibrionaceae,Succinivibrio,3.23204708787353,5.13745759896919,1.32663657677787
+ASV4,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,3.12400080968056,1.96268794663919,4.28531367272193
+ASV7,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,3.11065910032071,4.37333547688184,1.84798272375957
+ASV10,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,2.30427825791787,1.74682808322767,2.86172843260807
+ASV6,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,2.00844893455585,1.91068696400508,2.10621090510661
+ASV12,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,1.90337308025826,2.02224463871383,1.7845015218027
+ASV11,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,1.63589987297783,1.56668626200408,1.70511348395158
+ASV14,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,1.25072151519156,1.43082467784274,1.07061835254039
+ASV15,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,1.17720550672359,0.874293018719143,1.48011799472804
+ASV17,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,1.17533538622319,1.67145798859708,0.679212783849291
+ASV13,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,1.0893346529162,1.11583883426154,1.06283047157086
+ASV18,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,1.04133013699598,1.23636171854911,0.846298555442841
+ASV21,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,1.03524440235836,1.32048506828843,0.750003736428302
+ASV9,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,1.01527811890236,1.05120879312423,0.979347444680493
+ASV16,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.866173373978722,0.102438930637505,1.62990781731994
+ASV23,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.849261200700343,1.12345105699502,0.57507134440567
+ASV25,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,[Eubacterium] siraeum group,0.782430482103579,0.423943532701398,1.14091743150576
+ASV19,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.778870001673795,0.578675527649684,0.979064475697905
+ASV26,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.72655777219399,0.826064756130348,0.627050788257633
+ASV28,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,0.715072659264994,1.28809402612291,0.142051292407078
+ASV34,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.712349147178338,0.260007239531624,1.16469105482505
+ASV24,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Gemmiger,0.705547668413276,0.844197577395483,0.566897759431069
+ASV30,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Catenibacterium,0.684214015188105,1.17262658024784,0.195801450128371
+ASV31,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.639791126260352,0.243271307331089,1.03631094518961
+ASV33,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.636037771257628,0.634770013488342,0.637305529026914
+ASV41,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.611648423337329,0.897973544013629,0.32532330266103
+ASV40,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,0.598618142741065,0.398807007826031,0.798429277656099
+ASV20,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.588954774717664,0.690319801236437,0.48758974819889
+ASV38,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,0.579890357896521,0.589061329252844,0.570719386540199
+ASV32,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.566321556039631,0.616628960294043,0.516014151785219
+ASV39,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Gemmiger,0.557770368055183,0.629142048144366,0.486398687966
+ASV37,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.550168442177386,0.339662266269118,0.760674618085655
+ASV22,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.533428574548045,0.818257366113816,0.248599782982274
+ASV35,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.526915526799015,0.331803043635865,0.722028009962165
+ASV27,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group,0.498861483153877,0.654359250718688,0.343363715589065
+ASV60,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.495204626517367,0.681702252650755,0.308707000383978
+ASV42,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,0.493019120899014,0.731473736498194,0.254564505299833
+ASV45,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.489108831640261,0.0724222856985546,0.905795377581968
+ASV46,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.479148184523399,0.441195036313208,0.51710133273359
+ASV44,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.464141316328899,0.162452816842807,0.765829815814991
+ASV47,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,0.458301399805989,0.245649106658105,0.670953692953873
+ASV62,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.456045790797209,0.4891447679193,0.422946813675118
+ASV58,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.449039274766474,0.403873016281519,0.494205533251429
+ASV29,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.444645962623458,0.251061230256902,0.638230694990015
+ASV48,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.441590650972062,0.495672754224279,0.387508547719845
+ASV53,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.41972889585982,0.727960849555263,0.111496942164377
+ASV54,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia-Shigella,0.418441381028028,0.296337802767451,0.540544959288605
+ASV55,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group,0.407424850510461,0.490880900218991,0.323968800801932
+ASV51,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.397133194812289,0.380271923925551,0.413994465699026
+ASV52,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,CAG-352,0.373814485105535,0.278553622275772,0.469075347935297
+ASV59,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Dorea,0.366744910419381,0.428330043050067,0.305159777788695
+ASV50,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.366649924584338,0.283958876846988,0.449340972321687
+ASV63,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.356765101324826,0.0453174551727423,0.668212747476911
+ASV43,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.342168972000437,0,0.684337944000874
+ASV68,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.331067239804803,0.451799857946754,0.210334621662851
+ASV71,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.32168084886698,0.366904955549767,0.276456742184192
+ASV69,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.316168470543576,0.444152714806932,0.18818422628022
+ASV57,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.314368419897327,0.0830935345898936,0.54564330520476
+ASV56,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,0.30885934791639,0.16886309959361,0.44885559623917
+ASV77,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.305287168127412,0.583062523272978,0.0275118129818453
+ASV78,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,0.296871102795808,0.263342512436468,0.330399693155148
+ASV64,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,0.293841017557576,0.195543719039565,0.392138316075588
+ASV49,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.280398869310132,0.372655646892818,0.188142091727446
+ASV76,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.276708146027162,0.200684852552154,0.352731439502171
+ASV95,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.264258035623993,0.303001177754616,0.225514893493369
+ASV66,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,0.261694519061365,0.293905853477025,0.229483184645706
+ASV70,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.261528213838139,0.229991822191847,0.293064605484431
+ASV94,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.257098721241678,0.365159288540972,0.149038153942384
+ASV90,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.257030281543919,0.237365347054704,0.276695216033134
+ASV83,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Negativibacillus,0.252024859971383,0.324492023189837,0.179557696752928
+ASV81,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.250375529224862,0.175484311054491,0.325266747395232
+ASV88,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Verrucomicrobiales,Akkermansiaceae,Akkermansia,0.249499612783335,0.255899812282822,0.243099413283848
+ASV87,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,0.24489526514606,0.268967051196092,0.220823479096028
+ASV67,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.243030785947113,0.0172012838500125,0.468860288044213
+ASV36,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.241371934739011,0.179944041662507,0.302799827815514
+ASV84,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,0.237145832500541,0.0638339388053044,0.410457726195778
+ASV65,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,0.236001071387554,0.206980499422947,0.265021643352161
+ASV80,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.235776592659479,0.201061651409863,0.270491533909095
+ASV99,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospira,0.235652770512101,0.175402216478724,0.295903324545478
+ASV85,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.232872184091528,0.243792455085589,0.221951913097468
+ASV97,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.230128113053602,0.299089837939939,0.161166388167265
+ASV98,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospira,0.228078526070378,0.273440653366854,0.182716398773903
+ASV73,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.227684651591753,0.310775449822783,0.144593853360723
+ASV92,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,0.225687922176705,0.233645678255539,0.217730166097871
+ASV101,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospira,0.224467000752916,0.361986057996477,0.0869479435093552
+ASV96,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.224280296622121,0.271234648168528,0.177325945075715
+ASV89,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.22382105756118,0.234337894290067,0.213304220832292
+ASV61,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.21938921884778,0.275250826406411,0.163527611289148
+ASV86,Bacteria,Actinomycetota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,0.217962154728578,0.238120663935321,0.197803645521836
+ASV109,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.213030106223705,0.13874192962945,0.287318282817961
+ASV82,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,0.211563596402301,0.212783752772041,0.210343440032561
+ASV115,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.209056277662126,0.274585110804704,0.143527444519549
+ASV102,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.208371845147386,0.160868811171285,0.255874879123487
+ASV106,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.202713922668262,0.132604763446189,0.272823081890335
+ASV91,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,0.200422258060965,0.0855917570942768,0.315252759027653
+ASV110,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.197808093362377,0.373557073291726,0.0220591134330282
+ASV123,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.195924394168341,0.193759536015138,0.198089252321544
+ASV103,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Flavonifractor,0.194930917248197,0.258278551803741,0.131583282692653
+ASV105,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.192841128014438,0.254149384117734,0.131532871911143
+ASV112,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.192656306754205,0.298273788300348,0.087038825208061
+ASV104,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Fusicatenibacter,0.192214320759263,0.204198735635903,0.180229905882624
+ASV127,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.191064102349522,0.361763492091303,0.0203647126077402
+ASV114,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,0.190211384498466,0.202027752160757,0.178395016836175
+ASV75,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.179245218804528,0.216716823179892,0.141773614429164
+ASV111,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.178964854092093,0.138594200099736,0.21933550808445
+ASV113,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,CAG-873,0.171014483654739,0.139326497745891,0.202702469563588
+ASV121,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.167752564359645,0.252777826267228,0.0827273024520613
+ASV134,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Megasphaera,0.163331201728329,0.13519954520615,0.191462858250508
+ASV116,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.161500012672979,0.261826926810194,0.0611730985357644
+ASV120,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.160498534145488,0.157568262525991,0.163428805764985
+ASV108,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,0.160155744933995,0.134427031364323,0.185884458503667
+ASV119,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.160094733247019,0.108230788485871,0.211958678008167
+ASV118,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,0.154074962251476,0.236324439847852,0.0718254846550989
+ASV138,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.153372319419962,0.274415847801577,0.0323287910383479
+ASV100,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.153183669986328,0.176286619091609,0.130080720881048
+ASV131,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.148162467233465,0.166614414920221,0.129710519546709
+ASV124,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.146959699815481,0.113768090101129,0.180151309529833
+ASV144,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.146665526975124,0.261966273349686,0.0313647806005612
+ASV125,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.144487595505734,0.156206699387879,0.132768491623588
+ASV128,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.141532726623529,0.10873314254649,0.174332310700568
+ASV139,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.139922122624794,0.256621710049284,0.0232225352003048
+ASV117,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.138536833033495,0.148460642149334,0.128613023917656
+ASV132,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-003,0.137139716497041,0.12810596177911,0.146173471214972
+ASV137,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,0.135408550422081,0.1163643957961,0.154452705048062
+ASV133,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.132422727785379,0.0920161852347805,0.172829270335977
+ASV145,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,0.131374656918004,0.148350161152222,0.114399152683785
+ASV130,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Enterocloster,0.130233795158648,0.102624439739819,0.157843150577477
+ASV142,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.128038062076563,0.165389966540213,0.0906861576129124
+ASV143,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Coprobacillus,0.127352550139766,0.251736162240593,0.00296893803893858
+ASV140,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.125842134618692,0.204234279257569,0.0474499899798153
+ASV160,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.123513349901279,0.233520701550394,0.0135059982521649
+ASV93,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.122949976932988,0.203638922003557,0.0422610318624183
+ASV141,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.120282561550543,0.0607814804069549,0.179783642694132
+ASV155,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.118735588942556,0.13294773286105,0.104523445024061
+ASV163,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.117934101076711,0.0968868643150026,0.138981337838419
+ASV136,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.117312176681,0.105528498370962,0.129095854991038
+ASV126,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gauvreauii group,0.116101354696795,0.155919173981532,0.0762835354120581
+ASV74,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.114842270766545,0.0351169466472471,0.194567594885843
+ASV122,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.114208315678794,0.0174895735234764,0.210927057834112
+ASV107,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.114189886324816,0.160409849637362,0.0679699230122699
+ASV261,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.113965543798436,0.219993062988996,0.00793802460787629
+ASV147,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.109258365348464,0.0358255861018277,0.1826911445951
+ASV174,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,Megamonas,0.108923442023234,0.212468653702665,0.00537823034380324
+ASV151,Bacteria,Bacillota,Clostridia,Clostridiales,Clostridiaceae,Clostridium,0.107172620755183,0.13435039534299,0.0799948461673764
+ASV152,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,Mitsuokella,0.106433929369651,0.0584533660513444,0.154414492687958
+ASV154,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,0.105647027386431,0.0739102691332556,0.137383785639606
+ASV159,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,0.103891915297333,0.142545612201472,0.0652382183931935
+ASV157,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Romboutsia,0.10338065729245,0.125562294590567,0.0811990199943336
+ASV150,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Dorea,0.102947753334877,0.0836246848113415,0.122270821858412
+ASV182,Bacteria,Synergistota,Synergistia,Synergistales,Synergistaceae,Synergistes,0.102430519799655,0.0550603086936575,0.149800730905652
+ASV146,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Bilophila,0.102343043122916,0.0440259702578384,0.160660115987994
+ASV153,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.10034208428158,0.178437563847099,0.0222466047160597
+ASV180,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,0.100326249966303,0,0.200652499932606
+ASV148,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.0989080529983052,0.0456385718017451,0.152177534194865
+ASV161,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.0969786443845881,0.136672843300622,0.0572844454685544
+ASV165,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0960554129639099,0.0663418268681144,0.125768999059705
+ASV166,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0951190205231472,0.0608172511656638,0.129420789880631
+ASV173,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Bacteroides] pectinophilus group,0.0930255876510526,0.12022488830882,0.0658262869932852
+ASV164,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,0.0923815228089731,0.15155479477339,0.0332082508445558
+ASV178,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,CAG-352,0.0910088191094903,0.0222028136523287,0.159814824566652
+ASV181,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,[Eubacterium] siraeum group,0.0906568155381723,0.0970430323138037,0.084270598762541
+ASV170,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.0901234585599291,0.0935670286963298,0.0866798884235284
+ASV175,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0901075150158534,0.117548916435833,0.0626661135958738
+ASV195,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,0.0891667180947348,0.132900157715804,0.0454332784736651
+ASV169,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Negativibacillus,0.0873610083333963,0.02024524250647,0.154476774160322
+ASV179,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.0872387189241924,0.0665891264256891,0.107888311422696
+ASV168,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.0872379443878206,0.076954869214858,0.0975210195607833
+ASV193,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,0.086772268772655,0.1363206277098,0.0372239098355095
+ASV167,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0866092735932869,0.0764898729489644,0.0967286742376094
+ASV171,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.086481865182269,0.0146232485364606,0.158340481828077
+ASV211,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.085431961155502,0.105187695516163,0.0656762267948412
+ASV189,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0835029220861831,0.133227409554358,0.0337784346180079
+ASV172,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes,0.0820703125704799,0.0951704971756436,0.0689701279653163
+ASV184,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group,0.0817500287253087,0.110816347561108,0.0526837098895094
+ASV183,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group,0.0805168213116286,0.1014335948066,0.0596000478166573
+ASV190,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,0.0799372680435619,0.0628593307036647,0.097015205383459
+ASV185,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.0795997775869063,0.0424585907475839,0.116740964426229
+ASV156,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Enterocloster,0.0789958728406789,0.100670790081969,0.0573209555993887
+ASV221,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.0787688113963113,0.00989852425179995,0.147639098540823
+ASV188,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.0768365798185068,0.121060391340132,0.032612768296881
+ASV191,Bacteria,Bacillota,Bacilli,Izemoplasmatales,NA,NA,0.0765215619603427,0.0784348175292405,0.0746083063914449
+ASV205,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Massiliprevotella,0.0760487172911219,0.0619159592930826,0.0901814752891613
+ASV204,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.076005449436551,0.0346414033807912,0.117369495492311
+ASV199,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.074409891783912,0.00481653384709694,0.144003249720727
+ASV202,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae AC2044 group,0.0738391950558295,0.0725960237861806,0.0750823663254783
+ASV216,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.0737324176415632,0.0788195300841849,0.0686453051989415
+ASV203,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Megasphaera,0.0728717371285632,0.09352144692627,0.0522220273308564
+ASV217,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0728539335073865,0.126123186587019,0.0195846804277543
+ASV198,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,0.0726858850572477,0.0510606022200123,0.0943111678944831
+ASV220,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0707111034171614,0.14118905587685,0.000233150957473265
+ASV208,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.070269779361168,0.088419834428124,0.0521197242942121
+ASV176,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.0695532506775709,0.056955514700267,0.0821509866548748
+ASV187,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,0.0691911954496475,0.0747401017503006,0.0636422891489944
+ASV210,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0684656097009166,0.000501982832187139,0.136429236569646
+ASV236,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0671736600377545,0.0846658222699669,0.0496814978055421
+ASV209,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0668857590144081,0.110484924606077,0.0232865934227393
+ASV201,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.0666822517696238,0.0361517239071908,0.0972127796320567
+ASV222,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,UCG-004,0.0661591346741312,0.131279651653994,0.00103861769426872
+ASV230,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.0656332163413618,0.0910381519497565,0.0402282807329672
+ASV212,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,0.0652862319295078,0.10603635056643,0.0245361132925853
+ASV207,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,0.0651125303662456,0.0538651280627446,0.0763599326697467
+ASV237,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Negativibacillus,0.0642973550122912,0.0971471750612406,0.0314475349633418
+ASV162,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,0.0632229657510606,0.0455109522723739,0.0809349792297472
+ASV232,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0631155850177669,0.0978316582532093,0.0283995117823245
+ASV219,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Catenibacterium,0.062949657347643,0.109638297082896,0.0162610176123897
+ASV231,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0621778804065177,0.111765609109479,0.0125901517035563
+ASV223,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnotalea,0.0616344264043438,0.0447813724035093,0.0784874804051783
+ASV225,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ruminantium group,0.0608116966238642,0.0970521297320067,0.0245712635157217
+ASV228,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-001,0.0599252558379601,0.0345369357730824,0.0853135759028379
+ASV177,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.0598207937770881,0.0966793168352832,0.0229622707188929
+ASV218,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Angelakisella,0.0597540050508066,0.0481197637629965,0.0713882463386167
+ASV224,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.0593903459567312,0.0775372631907812,0.0412434287226811
+ASV206,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.0590807210303629,0.0272325686461523,0.0909288734145735
+ASV256,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0590783602200424,0.102894529574012,0.0152621908660731
+ASV215,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.0587735999224541,0.0185749245174851,0.0989722753274232
+ASV233,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae ND3007 group,0.0577898793546072,0.0706713945141896,0.0449083641950248
+ASV197,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0564357396556703,0.00211412427206857,0.110757355039272
+ASV262,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.0562009180580167,0.0978106131265034,0.01459122298953
+ASV248,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.0561593605006695,0.00877839308502524,0.103540327916314
+ASV229,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Enterocloster,0.0554473058739262,0.0699041054968382,0.0409905062510142
+ASV186,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.055367606697952,0.0808932488718114,0.0298419645240927
+ASV241,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0551808869959039,0.0675763615128094,0.0427854124789983
+ASV240,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0549393386291391,0.0632498368555795,0.0466288404026987
+ASV235,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,Agathobaculum,0.05471288541149,0.0489471506013536,0.0604786202216264
+ASV214,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0544502163275266,0.0188302365743534,0.0900701960806998
+ASV253,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0538686658586183,0.0291366292890108,0.0786007024282258
+ASV254,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0537037111068764,0.107407422213753,0
+ASV238,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,0.0524576439118987,0.0732976936857923,0.0316175941380051
+ASV249,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0520759913857328,0.0400938525589412,0.0640581302125244
+ASV251,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.0519897810462702,0.038007838627453,0.0659717234650875
+ASV267,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0515206945753946,0.0533379430027874,0.0497034461480019
+ASV283,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.0515112782111565,0.067235623172499,0.0357869332498141
+ASV239,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,0.0514786421193725,0.0515457393290784,0.0514115449096665
+ASV226,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,CAG-56,0.0511023641600572,0.0698958679183051,0.0323088604018092
+ASV234,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruthenibacterium,0.0507250210165904,0.0412107044760904,0.0602393375570903
+ASV269,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.0497317023293113,0.062363870862488,0.0370995337961347
+ASV227,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0496260325553132,0.0146533028544634,0.084598762256163
+ASV288,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.049436804097527,0.0589216856230293,0.0399519225720246
+ASV213,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelotrichaceae UCG-003,0.0490761732511237,0.0925739451793823,0.00557840132286512
+ASV250,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,0.0487202318723403,0.0815933211486765,0.0158471425960042
+ASV252,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.0475954503282196,0.033413647315543,0.0617772533408961
+ASV242,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.0472069999103165,0.0419378618178713,0.0524761380027616
+ASV257,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Pygmaiobacter,0.0469704853918726,0.0578679659378736,0.0360730048458716
+ASV247,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0468363953489626,0.0329198367649289,0.0607529539329964
+ASV263,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0467902654471521,0.0324897101322357,0.0610908207620684
+ASV273,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,0.0460368996988551,0,0.0920737993977102
+ASV245,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.045836837986087,0.0286709132039515,0.0630027627682224
+ASV258,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0457273970208326,0.0472641403043755,0.0441906537372896
+ASV443,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-003,0.0456363876668279,0.0826014121320303,0.00867136320162548
+ASV271,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0454923896969178,0.0448126735853636,0.0461721058084721
+ASV296,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0454727592474537,0.0475997674524941,0.0433457510424132
+ASV260,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,0.0451935539625253,0.0728330130549266,0.017554094870124
+ASV270,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0447365931369299,0.0446677489512709,0.0448054373225889
+ASV277,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.0447190063701773,0.0502401346822466,0.039197878058108
+ASV295,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0445573270813732,0.0132211306882189,0.0758935234745275
+ASV317,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,0.0441223488413586,0.0547445255474453,0.0335001721352718
+ASV200,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,0.0437808006011423,0.0304321132458961,0.0571294879563885
+ASV265,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0437462191158474,0.0170351708887788,0.070457267342916
+ASV259,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,0.0433332976292902,0.032054459772085,0.0546121354864955
+ASV274,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,0.0427538227703608,0.0260547258257931,0.0594529197149284
+ASV305,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.0412219619706309,0.0824439239412619,0
+ASV282,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0411532848727861,0.0328069054096214,0.0494996643359508
+ASV306,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0410233789926989,0.0503023033426895,0.0317444546427083
+ASV284,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,Victivallis,0.0406910914186844,0.0379410640899879,0.043441118747381
+ASV280,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0406462177505653,0.0677061419337119,0.0135862935674187
+ASV281,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.0404189999113728,0.0328815540686154,0.0479564457541301
+ASV266,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.0401230437120627,0.0485734027164597,0.0316726847076658
+ASV279,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,Agathobaculum,0.0400599102906105,0.0561295548577767,0.0239902657234444
+ASV293,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Butyribacter,0.0399345642693853,0.0111387551003065,0.0687303734384641
+ASV297,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Oribacterium,0.0398264476056547,0.0661847476914697,0.0134681475198398
+ASV332,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0397819744667839,0.00182481751824817,0.0777391314153197
+ASV278,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.0397073671652524,0.0458152845194779,0.0335994498110269
+ASV289,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0395469963083554,0.0563765877233253,0.0227174048933856
+ASV302,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0394202538252487,0.0768356067817071,0.00200490086879038
+ASV509,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0394185923665673,0.0771736744705559,0.0016635102625787
+ASV264,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] xylanophilum group,0.0394085489689555,0.0417248430299976,0.0370922549079135
+ASV328,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0391756789448888,0.0778073389890066,0.000544018900770953
+ASV194,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,0.0390108496039183,0.0769607237336349,0.00106097547420176
+ASV275,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.0383154618836015,0.0332380009319065,0.0433929228352966
+ASV298,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0379677673432606,0.0459576991500297,0.0299778355364916
+ASV287,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.0376293743890713,0.016532225657368,0.0587265231207746
+ASV285,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0375956778777524,0.0399742636782247,0.0352170920772802
+ASV309,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0368871236464645,0.0486647763521207,0.0251094709408083
+ASV300,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0366716154251121,0.0342637666142728,0.0390794642359513
+ASV244,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.0364802235854654,0.031345655296088,0.0416147918748428
+ASV291,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0364420017932168,0.0230806885044942,0.0498033150819395
+ASV255,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0361951227992186,0.00234452845671414,0.0700457171417231
+ASV318,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.0361886398828689,0.0418586608630169,0.0305186189027208
+ASV310,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0355681425442207,0.0251495143360916,0.0459867707523497
+ASV321,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.0354270785716661,0.0331933867447868,0.0376607703985453
+ASV337,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,Mitsuokella,0.0353409707945476,0.0253562004644292,0.045325741124666
+ASV314,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,0.0352389135388544,0.0430016680747817,0.027476159002927
+ASV303,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0348817312448603,0.0697634624897206,0
+ASV268,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ventriosum group,0.0347830978574814,0.0349055245122532,0.0346606712027096
+ASV294,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.0347245091933552,0.0362519794699357,0.0331970389167746
+ASV307,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.0342032290715219,0.0129924090011383,0.0554140491419055
+ASV351,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,0.0342022797388991,0,0.0684045594777981
+ASV322,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,0.0340690135740246,0.0681380271480491,0
+ASV312,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,0.0338661631246145,0.0222697899951133,0.0454625362541157
+ASV326,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0336039074677381,0.0557830202985204,0.0114247946369559
+ASV308,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerobutyricum,0.0331208622961546,0.0293581980770169,0.0368835265152922
+ASV327,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.0329720586660713,0.0402019793546909,0.0257421379774517
+ASV313,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0325974771941088,0.0328393015046282,0.0323556528835893
+ASV340,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0325097223278365,0.0255057180813038,0.0395137265743692
+ASV344,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.0324133295293885,0.0144813705758186,0.0503452884829583
+ASV324,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,NA,0.0323566435216086,0.027315246740961,0.0373980403022563
+ASV341,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0322779396944148,0.0507924688862887,0.0137634105025409
+ASV316,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Thomasclavelia,0.0321830058752121,0.0590349213198839,0.00533109043054025
+ASV299,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0318887707880721,0.01616796966602,0.0476095719101242
+ASV355,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Oribacterium,0.0311111469641575,0.0360749315823432,0.0261473623459719
+ASV338,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,0.0310694463247064,0.0241995359742142,0.0379393566751986
+ASV315,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0308102118400796,0,0.0616204236801593
+ASV334,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.0306053683356782,0.0390978313811566,0.0221129052901999
+ASV342,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-007,0.0304937025942175,0.0199525830886107,0.0410348220998243
+ASV323,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.03000201447662,0.0161932952836106,0.0438107336696294
+ASV339,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.0299322255627077,0.0311528137513739,0.0287116373740414
+ASV331,Bacteria,Actinomycetota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,0.0294897893278963,0.0466360155801153,0.0123435630756774
+ASV243,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,Agathobaculum,0.0293184052824466,0.0350349071782083,0.0236019033866849
+ASV320,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.0288008628191929,0.0146668492827242,0.0429348763556616
+ASV353,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,0.0287979133416551,0.0500422434522649,0.00755358323104523
+ASV380,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK3A20 group,0.0286457922057335,0.0031231261243254,0.0541684582871416
+ASV333,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Gemmiger,0.0284717707116354,0.0254773311300207,0.0314662102932501
+ASV345,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.0282263723433092,0.0482966798752976,0.0081560648113208
+ASV363,Bacteria,Bacillota,Clostridia,Clostridiales,Clostridiaceae,Sarcina,0.0282252866920868,0.0518247162944409,0.00462585708973266
+ASV382,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,NA,0.028099462888176,0.0300115458737947,0.0261873799025574
+ASV290,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0279841500737619,0.0248259690518986,0.0311423310956251
+ASV347,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0279712766417545,0.0284688596017232,0.0274736936817858
+ASV329,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Gemmiger,0.0278728949883118,0.0404397362486476,0.0153060537279761
+ASV359,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,0.0278274589481725,0.0410988771394309,0.0145560407569141
+ASV375,Bacteria,Bacillota,Clostridia,Clostridiales,Clostridiaceae,Clostridium,0.0278268619139843,0.0267427223579283,0.0289110014700402
+ASV390,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Mailhella,0.0276592439481657,0.0245620299539198,0.0307564579424116
+ASV381,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.0276413764368011,0.0425850473712631,0.0126977055023391
+ASV330,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Pseudoflavonifractor,0.027147662237985,0.0341377266695295,0.0201575978064405
+ASV361,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Bacteroides] pectinophilus group,0.0270986501193517,0.0353897896691933,0.0188075105695101
+ASV400,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0270687731374831,0.0412170740094282,0.012920472265538
+ASV354,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0268903860694269,0.0149183337228761,0.0388624384159777
+ASV349,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.0268356311403022,0.0339336987731663,0.0197375635074381
+ASV346,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.0266338493547416,0.0227317651709824,0.0305359335385008
+ASV370,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.0265839141645412,0,0.0531678283290823
+ASV352,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.026487123780248,0.0176444187257281,0.0353298288347679
+ASV356,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.026432811998091,0.0319949964337421,0.0208706275624399
+ASV360,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.0263978464256654,0.0254788771203465,0.0273168157309843
+ASV368,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0263911069541417,0.0206022768530665,0.0321799370552169
+ASV583,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0260479811634237,0.0447409755008267,0.00735498682602063
+ASV367,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] xylanophilum group,0.0260239809567053,0.0189184562040036,0.0331295057094071
+ASV387,Bacteria,Bacillota,Bacilli,Izemoplasmatales,NA,NA,0.0258370797979734,0,0.0516741595959469
+ASV383,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,NA,0.0257239439290593,0.0166357268882983,0.0348121609698203
+ASV366,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Allisonella,0.0256765641683369,0.0400642837114759,0.0112888446251979
+ASV364,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0256385796131269,0.045333654567802,0.00594350465845175
+ASV358,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0253369776243862,0.0215093568072394,0.029164598441533
+ASV424,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,0.0249957361442107,0.0499914722884213,0
+ASV487,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,0.0246013654764714,0.0363401910790692,0.0128625398738736
+ASV428,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0245541086177846,0.00104275286757039,0.0480654643679987
+ASV357,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.0245274376388076,0.0245636567949646,0.0244912184826507
+ASV362,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.0243936421668361,0.0117019448458452,0.0370853394878271
+ASV192,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Turicimonas,0.0242864323317702,0.0016339907141632,0.0469388739493772
+ASV423,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Ligilactobacillus,0.0237942521141911,0.0400782865137804,0.00751021771460183
+ASV392,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0237886965874248,0.0312930368275894,0.0162843563472601
+ASV388,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0237589042250965,0.0313034812937328,0.0162143271564603
+ASV377,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0236943989802852,0.0200583320932878,0.0273304658672827
+ASV379,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0236517393767163,0.00140117348279184,0.0459023052706408
+ASV325,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0236061249123157,0.031889915296764,0.0153223345278673
+ASV369,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.0234759594060586,0.0205227220415442,0.0264291967705729
+ASV410,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.0234618361637263,0.000859064356192627,0.04606460797126
+ASV407,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.0234160122356929,0.0306388561057204,0.0161931683656654
+ASV406,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,NA,0.0232377501590427,0.0404306102140724,0.00604489010401302
+ASV393,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.0231644362613049,0.0222529357016428,0.0240759368209669
+ASV408,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0231114647390889,0.0331448625463053,0.0130780669318725
+ASV374,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Faecalimonas,0.0227637848436455,0.0150847610491221,0.030442808638169
+ASV438,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0227063884553545,0.0382625425419157,0.0071502343687932
+ASV440,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.022666831602992,0.0205173587822772,0.0248163044237068
+ASV396,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0226425524302989,0.0387709269180715,0.00651417794252626
+ASV404,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.0226022385837507,0.0265120806212097,0.0186923965462916
+ASV389,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.022352455452097,0.0371042829311606,0.00760062797303335
+ASV386,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0222539161700774,0.00599640215870478,0.0385114301814499
+ASV378,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.0221352444823242,0.00815500884589302,0.0361154801187553
+ASV395,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.0217072082104196,0.0290304925433516,0.0143839238774877
+ASV372,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.0216007139539027,0.00705814655981202,0.0361432813479933
+ASV441,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.021379758887851,0.042759517775702,0
+ASV467,Bacteria,Pseudomonadota,Alphaproteobacteria,NA,NA,NA,0.0210110410656406,0.00299791449426486,0.0390241676370163
+ASV348,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,0.0208630959227729,0.0221460637781072,0.0195801280674385
+ASV384,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0208605872367776,0.0181365438445552,0.023584630629
+ASV409,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,0.0208157282283111,0.0359959218493165,0.0056355346073057
+ASV376,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0207557037647799,0.0110887007320099,0.0304227067975499
+ASV432,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.0204949921935445,0.033573766202858,0.00741621818423099
+ASV397,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0204420799590214,0.00368276250514504,0.0372013974128977
+ASV418,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.020329528489951,0.00661304802562405,0.034046008954278
+ASV422,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.0202436378128225,0.0274867577878188,0.0130005178378262
+ASV471,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0201466716581609,0.00587147711373176,0.03442186620259
+ASV421,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,0.0201201217896456,0.0332531790905743,0.00698706448871684
+ASV411,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Angelakisella,0.0200505873298268,0.0141266828181417,0.025974491841512
+ASV412,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,NA,0.0200428339616649,0.0297538544766027,0.0103318134467271
+ASV371,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0199116305201638,0.0239648900141475,0.0158583710261801
+ASV405,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.0198090600857036,0.012850631488063,0.0267674886833443
+ASV399,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Angelakisella,0.0197909497430052,0.011264920603973,0.0283169788820374
+ASV445,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0197645029902821,0.0184788229544506,0.0210501830261137
+ASV444,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.0197353348711477,0.0346638177933355,0.00480685194895997
+ASV470,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.0196428082803665,0.032037571698724,0.00724804486200895
+ASV402,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0193979088089914,0.00261028452101279,0.0361855330969699
+ASV401,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0193572201797099,0.00651812098542927,0.0321963193739905
+ASV403,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gauvreauii group,0.0193164436532051,0.0285492805959426,0.0100836067104677
+ASV394,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0193128385907537,0.0147360269221948,0.0238896502593126
+ASV398,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,NA,0.0192697329104189,0.0142737926877081,0.0242656731331297
+ASV431,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,0.0189171832861491,0.0374827108157822,0.00035165575651606
+ASV460,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.0188508092534101,0,0.0377016185068202
+ASV491,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,0.0188500462814442,0.0286561615024812,0.00904393106040731
+ASV426,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Gabonibacter,0.0187529746445038,0.0259969157369247,0.0115090335520828
+ASV420,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0186193904449059,0.0209688434631126,0.0162699374266992
+ASV335,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-003,0.0184816371708543,0.0192465166446077,0.0177167576971008
+ASV350,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.0183543550272727,0.0106011205767816,0.0261075894777639
+ASV512,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.0183452713776695,0.0075599582898853,0.0291305844654538
+ASV461,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.0182043559244837,0.00757859187813506,0.0288301199708322
+ASV483,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0180661987220847,0.00534410844629823,0.0307882889978711
+ASV475,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.0178816637198682,0.0292292431971104,0.00653408424262598
+ASV477,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0177681038785372,0.0219617489081873,0.0135744588488871
+ASV425,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.017757048265706,0.022820183190582,0.0126939133408299
+ASV439,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,0.0176762374164039,0.0139901315972395,0.0213623432355683
+ASV494,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,0.0176674996304051,0.0148610267983031,0.020473972462507
+ASV437,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.0176060674886609,0.0132801180547222,0.0219320169225996
+ASV504,Bacteria,Cyanobacteriota,Vampirivibrionia,Gastranaerophilales,Gastranaerophilaceae,Zag_111,0.0175316930290065,0.0338716803298807,0.0011917057281322
+ASV427,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,NA,0.0171127395777145,0.00748521571326897,0.0267402634421601
+ASV479,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,NA,0.0170641986363225,0.0112310863677132,0.0228973109049319
+ASV414,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,0.0170013545426411,0.00640028111038603,0.0276024279748961
+ASV435,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.0169798127345669,0.0112443025520551,0.0227153229170787
+ASV446,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.0169667932749439,0.0271953258634276,0.00673826068646031
+ASV541,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0168001440866367,0.00274835098940636,0.0308519371838669
+ASV433,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0167260968619727,0.00472670208542096,0.0287254916385244
+ASV506,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0166348427163945,0.0296169870990412,0.00365269833374782
+ASV524,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.0165994411736859,0.0214061513867359,0.0117927309606359
+ASV561,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0164984358680331,0.0329968717360663,0
+ASV500,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Oribacterium,0.0164129995257573,0.0267081874801109,0.0061178115714036
+ASV453,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Negativibacillus,0.0163835896404807,0.0123377299924818,0.0204294492884796
+ASV451,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0163674315646975,0.0048115717624479,0.0279232913669472
+ASV496,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.0163504470947727,0.0120852222847033,0.0206156719048421
+ASV449,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.0163292432792441,0.0102831528741046,0.0223753336843835
+ASV472,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.016313058947216,0.0124240750966317,0.0202020427978003
+ASV463,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Opitutales,Puniceicoccaceae,NA,0.0163016105083831,0.00282228516626136,0.0297809358505048
+ASV419,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,0.0162778449305293,0.00457106147459972,0.0279846283864589
+ASV415,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Enterocloster,0.0162626986104201,0.0176344327486655,0.0148909644721747
+ASV558,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,0.0161111422157425,0.00957987559697311,0.0226424088345118
+ASV466,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.0160997237901548,0.0273307489061411,0.00486869867416841
+ASV417,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,GCA-900066575,0.0160097387091741,0.00815894019767167,0.0238605372206765
+ASV458,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0160011894600523,0.0136517441619432,0.0183506347581615
+ASV514,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Romboutsia,0.0159332503031125,0.0133768592607138,0.0184896413455112
+ASV450,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gnavus group,0.0159195334237046,0.00253207264281623,0.029306994204593
+ASV588,Bacteria,Verrucomicrobiota,Lentisphaeria,Oligosphaerales,Oligosphaeraceae,Z20,0.0158822160567202,0.0309105632335456,0.000853868879894803
+ASV474,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.0158501768914464,0.0188269877640074,0.0128733660188855
+ASV429,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae FCS020 group,0.0157503994010317,0.0138488834994526,0.0176519153026108
+ASV499,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0156146284958097,0.0312292569916195,0
+ASV456,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,0.0155969357500139,0.0147999273226976,0.0163939441773303
+ASV489,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,0.0155311517387188,0.0147581470995723,0.0163041563778653
+ASV481,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0155153025100484,0.00218933356686225,0.0288412714532345
+ASV554,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.0153781396759996,0.00208550573514077,0.0286707736168584
+ASV525,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Opitutales,Puniceicoccaceae,NA,0.0153717862652786,0.00665702157513766,0.0240865509554194
+ASV510,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Butyribacter,0.0153600959827855,0.0234819112230366,0.00723828074253446
+ASV473,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.0153322687924276,0.0173789298628433,0.0132856077220119
+ASV465,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.0153157595363456,0.0149903770502154,0.0156411420224759
+ASV614,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0153016917924664,0.0274748370397744,0.00312854654515839
+ASV468,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Weissella,0.0152825878971918,0.0257542564543805,0.00481091934000307
+ASV550,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,Agathobaculum,0.0152621721676946,0.0235796460642535,0.00694469827113564
+ASV478,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,CAG-352,0.0151353506498628,0.00779879118736596,0.0224719101123595
+ASV301,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Verrucomicrobiales,Akkermansiaceae,Akkermansia,0.0150916180679262,0,0.0301832361358524
+ASV505,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.0150882240423036,0.0269941301999806,0.00318231788462651
+ASV495,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0150813163919327,0.0231862441748013,0.00697638860906409
+ASV517,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0149829456170722,0.0195467187931619,0.0104191724409825
+ASV469,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.0148397085114254,0.0131034483617386,0.0165759686611122
+ASV455,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Gemmiger,0.0146145042003683,0.0198616038133436,0.00936740458739309
+ASV448,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.0146087528599616,0.00402837376302653,0.0251891319568967
+ASV486,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.014552595506396,0.0200246222227309,0.00908056879006119
+ASV577,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0145405634068772,0.0198123044838373,0.00926882232991711
+ASV559,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.0145330270726847,0.0240538019733935,0.00501225217197594
+ASV447,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.0144774147242003,0.00744054065307717,0.0215142887953235
+ASV493,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Frisingicoccus,0.0144383285089776,0.0157621026845772,0.0131145543333779
+ASV571,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0144130616117712,0.0143663801718969,0.0144597430516456
+ASV581,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,0.0143615883571993,0.0173357664233577,0.011387410291041
+ASV442,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.0142947125372442,0.00464148214739393,0.0239479429270945
+ASV566,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0142884077254868,0.00682321970955985,0.0217535957414137
+ASV484,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.0142850388585628,0.00662610686103247,0.0219439708560932
+ASV536,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0142776466173293,0.0148183936726048,0.0137368995620538
+ASV488,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.0141962694079864,0.00450585258890127,0.0238866862270714
+ASV503,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Howardella,0.0141868004763976,0.016280961970794,0.0120926389820012
+ASV490,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.013989420803822,0.0113294362334214,0.0166494053742225
+ASV531,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0137781372713764,0.019439076433771,0.00811719810898176
+ASV584,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Mailhella,0.0136962569521152,0.0273925139042304,0
+ASV546,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Oxalobacter,0.0136194489333015,0.0171230148720105,0.0101158829945924
+ASV511,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Erysipelotrichaceae UCG-006,0.0134559668008579,0.0235182146910405,0.00339371891067525
+ASV518,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,0.0134158150182582,0.0199880840268302,0.00684354600968625
+ASV563,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.0133909316702971,0.0135061563135095,0.0132757070270847
+ASV515,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Enterocloster,0.0133580007851645,0.0176696182960866,0.00904638327424248
+ASV578,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.0132387604894675,0.0213538854253596,0.00512363555357541
+ASV501,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Haemophilus,0.0131907389605463,0.00881140892019145,0.0175700690009012
+ASV519,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.0131323935766963,0.0169576163625393,0.00930717079085336
+ASV537,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Longibaculum,0.0129426081529603,0.024697307391121,0.00118790891479952
+ASV564,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Megasphaera,0.0129368261259507,0.00516550643768623,0.0207081458142151
+ASV535,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,NA,NA,0.0128877966499732,0.0130799841716134,0.012695609128333
+ASV526,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0128854426441317,0.0122661491776397,0.0135047361106236
+ASV462,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.0128486188711878,0.0143790900324506,0.0113181477099249
+ASV539,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.0125844349170162,0.00588684181838003,0.0192820280156525
+ASV464,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0125213549470421,0.00025099141609357,0.0247917184779906
+ASV528,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.0122009949801596,0.00894696323422317,0.0154550267260959
+ASV548,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,GCA-900066575,0.012187528713638,0.0190751561150935,0.00529990131218246
+ASV605,Bacteria,Cyanobacteriota,Vampirivibrionia,Gastranaerophilales,Gastranaerophilaceae,CAG-196,0.0121305967224012,0.0214766089048157,0.00278458453998663
+ASV717,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII UCG-001,0.0121085654230396,0.0206401020882556,0.0035770287578236
+ASV527,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemania,0.0120852481199569,0.0155989375909545,0.00857155864895938
+ASV567,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0120376767502447,0.0152308052800125,0.0088445482204769
+ASV601,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0119914891526715,0.0148495410141868,0.00913343729115616
+ASV485,Bacteria,Pseudomonadota,Alphaproteobacteria,NA,NA,NA,0.0119681095681086,0.0016314442046082,0.0223047749316091
+ASV572,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0119647366297166,0.0187405689260216,0.00518890433341161
+ASV587,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,0.0119377395442115,0.0120100149210522,0.0118654641673708
+ASV573,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0118734238254917,0.0169636184567618,0.00678322919422149
+ASV557,Bacteria,Bacillota,Clostridia,Eubacteriales,Eubacteriaceae,Eubacterium,0.011855889878263,0.0206508365855815,0.00306094317094458
+ASV547,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0117492393482464,0.00198718889342461,0.0215112898030681
+ASV606,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0117422771359951,0.0234845542719901,0
+ASV574,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0116962943437557,0,0.0233925886875114
+ASV522,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,0.011582116031783,0.012876938748054,0.010287293315512
+ASV570,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0115683338426228,0.016754807657234,0.00638186002801164
+ASV457,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerobutyricum,0.0115637894566925,0.00855749447295373,0.0145700844404312
+ASV482,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.0115515524573227,0.00556194813354815,0.0175411567810972
+ASV608,Bacteria,Bacteroidota,Bacteroidia,NA,NA,NA,0.0115343063994413,0,0.0230686127988825
+ASV598,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,0.0113464613931867,0.00748913933266974,0.0152037834537036
+ASV618,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,0.011345708118419,0.00146450050769351,0.0212269157291446
+ASV507,Bacteria,Pseudomonadota,Alphaproteobacteria,NA,NA,NA,0.0113314045497122,0.00175693991265499,0.0209058691867695
+ASV575,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Marvinbryantia,0.0113047967622731,0.0118267212596776,0.0107828722648687
+ASV599,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,NA,0.0112998850610154,0.00143692761813246,0.0211628425038984
+ASV569,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0112684251105038,0.0220651409825822,0.000471709238425435
+ASV542,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Succinivibrionaceae,Succinivibrio,0.0112594931128636,0.00117226422835707,0.0213467219973701
+ASV436,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,0.0112339834055823,0.00675322460978738,0.0157147422013772
+ASV562,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0112034571404307,0.0126737702653172,0.00973314401554425
+ASV586,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,0.0111657388900346,0.0223314777800693,0
+ASV631,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0111455411017425,0,0.0222910822034851
+ASV633,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0111447736928189,0.0146040940552747,0.00768545333036311
+ASV589,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.0110689373062512,0.0187387621585321,0.00339911245397035
+ASV590,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.0109339343315357,0.013018554711775,0.00884931395129638
+ASV549,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.0109148491773697,0.0160564870641634,0.005773211290576
+ASV593,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] xylanophilum group,0.0107939753917291,0,0.0215879507834582
+ASV580,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0107905348358802,0.0117365091915398,0.0098445604802205
+ASV611,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0107788897303325,0.0189009016609983,0.00265687779966663
+ASV622,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0107541534173719,0.0181857769022316,0.00332252993251225
+ASV596,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.0107502974573168,0.00576290366520673,0.0157376912494268
+ASV552,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,Victivallis,0.0107207737699409,0.0131501807919125,0.00829136674796924
+ASV612,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.0105704735899382,0.019063711791339,0.00207723538853744
+ASV476,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.0105596609881653,0.00920499904765256,0.011914322928678
+ASV621,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Opitutales,Puniceicoccaceae,NA,0.0103753326947086,0.0153104763817077,0.00544018900770952
+ASV582,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,NA,NA,0.0103738361417744,0.0056829412927456,0.0150647309908031
+ASV560,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.0103638892979214,0.00414090614730847,0.0165868724485343
+ASV627,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.0103134512724027,0.0190913546101173,0.00153554793468803
+ASV659,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Solobacterium,0.0102102746055214,0.0167854512746515,0.00363509793639124
+ASV679,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.0101040702862988,0.00437978584845373,0.0158283547241438
+ASV686,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Succinivibrionaceae,Succinatimonas,0.0100656112789686,0.00689004780091273,0.0132411747570244
+ASV600,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,0.0100105839398243,0.00391542678151919,0.0161057410981295
+ASV768,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,NA,0.00989298636954459,0.0170053260401141,0.00278064669897513
+ASV649,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.00988929410375878,0.0197785882075176,0
+ASV576,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.00980832025252597,0.0136631220491447,0.00595351845590721
+ASV629,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,0.009781374825374,0.00606572647906241,0.0134970231716856
+ASV654,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Comamonadaceae,NA,0.00972150439820327,0.00446624047639898,0.0149767683200075
+ASV603,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00961256672720196,0.00871352187865731,0.0105116115757466
+ASV656,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.00957747718789137,0.0138193933670617,0.00533556100872109
+ASV623,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Butyribacter,0.0095171340650971,0.00555447960064622,0.013479788529548
+ASV602,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Veillonella,0.00951011275910122,0.00440567402868343,0.014614551489519
+ASV609,Bacteria,Synergistota,Synergistia,Synergistales,Synergistaceae,Cloacibacillus,0.00950619049610519,0.00458009526715625,0.0144322857250541
+ASV585,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Mailhella,0.00949483275446773,0.00543585688871318,0.0135538086202223
+ASV665,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,0.00937818393150421,0.0127319001786791,0.00602446768432928
+ASV595,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gauvreauii group,0.0092398874588767,0.00657743404101362,0.0119023408767398
+ASV630,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ventriosum group,0.00923342936825937,0.0025099141609357,0.015956944575583
+ASV624,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.00921024760533997,0.000314340199920367,0.0181061550107596
+ASV695,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00920063192580177,0.00272428173264318,0.0156769821189604
+ASV647,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00913437762195284,0.010880686779157,0.00738806846474867
+ASV657,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-007,0.00912943789988663,0.00699393691197231,0.011264938887801
+ASV653,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.00912417810679318,0.0125371596383807,0.00571119657520563
+ASV642,Bacteria,Bacillota,Bacilli,Izemoplasmatales,NA,NA,0.00910743815216576,0.00974377139260683,0.00847110491172469
+ASV626,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,Mitsuokella,0.00910654354737565,0,0.0182130870947513
+ASV619,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.00909252274348577,0.0117000441986398,0.00648500128833172
+ASV673,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,0.00903324488506134,0.0090378730517119,0.00902861671841079
+ASV684,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0089993703416885,0.00220902263020961,0.0157897180531674
+ASV502,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00899638718645746,0.00859895639938244,0.00939381797353247
+ASV652,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00898973044548771,0.0095318558956695,0.00844760499530592
+ASV553,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Hungatella,0.00890296979334188,0.00481048088436698,0.0129954587023168
+ASV643,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,0.00888228391755987,0.0107838053467591,0.00698076248836068
+ASV664,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.00880723806918828,0,0.0176144761383766
+ASV616,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,[Clostridium] innocuum group,0.00869343463103621,0.0160782442138059,0.00130862504826649
+ASV739,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Opitutales,Puniceicoccaceae,NA,0.00868855960291829,0.0147288842544317,0.00264823495140489
+ASV694,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.00868213170148004,0.00478621569878749,0.0125780477041726
+ASV727,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Gabonibacter,0.00863752927956334,0.0131702943844491,0.00410476417467758
+ASV640,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00862972048223613,0.00702631828171706,0.0102331226827552
+ASV634,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.00862711576363046,0.000342003947702711,0.0169122275795582
+ASV610,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,0.00858923319606538,0.00104034456211897,0.0161381218300118
+ASV516,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,0.00841598874150362,0.00642680993939752,0.0104051675436097
+ASV620,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00833892296700293,0.00478558498574728,0.0118922609482586
+ASV753,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,0.00832743161008825,0.0155955692396145,0.00105929398056196
+ASV670,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.00827107607536598,0,0.016542152150732
+ASV645,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00825836788655472,0.010857218228605,0.00565951754450439
+ASV706,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00823021945039211,0.00174895062962223,0.014711488271162
+ASV655,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00819791619921226,0.00523739773666314,0.0111584346617614
+ASV714,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-003,0.00813565834228182,0.00442044165977975,0.0118508750247839
+ASV646,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.00811512628829381,0.00924563570725946,0.00698461686932816
+ASV669,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Marvinbryantia,0.00806741270111328,0.00584136162105524,0.0102934637811713
+ASV735,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0080578737658695,0.00640688684097956,0.00970886069075944
+ASV391,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0079996296104173,0,0.0159992592208346
+ASV635,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0079988290645319,0.0115315869385559,0.00446607119050793
+ASV676,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00797713552353414,0.00495482798435964,0.0109994430627086
+ASV687,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Catenisphaera,0.007897557897836,0.0087970230571488,0.0069980927385232
+ASV675,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,0.00789054727111346,0.0103987445879261,0.0053823499543008
+ASV791,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,0.00784909928385188,0.00967117988394584,0.00602701868375792
+ASV710,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00782730128923969,0.00175693991265499,0.0138976626658244
+ASV748,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Tyzzerella,0.00782587810625268,0.0144265390149112,0.00122521719759412
+ASV700,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.00776907991580622,0.00731048798078989,0.00822767185082255
+ASV660,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.00775481787441792,0.00506523028266456,0.0104444054661713
+ASV644,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00773544985496553,0.00725333980687065,0.00821755990306042
+ASV703,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,0.00771533102397908,0.00918423236858518,0.00624642967937298
+ASV732,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,NA,0.00769414977474159,0.00380442786313878,0.0115838716863444
+ASV677,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.00768734532859585,0.00722945034052749,0.0081452403166642
+ASV685,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,0.00767702237111008,0.00736358787980541,0.00799045686241474
+ASV672,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Intestinibacter,0.00764231053642954,0.00800736921884325,0.00727725185401584
+ASV701,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00755880766238377,0.0060772438651271,0.00904037145964045
+ASV796,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.00753820665726502,0.00951511991657977,0.00556129339795027
+ASV745,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,0.0074623357001454,0.00195266734359135,0.0129720040566995
+ASV802,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,0.00742957275962016,0.00651720542231491,0.0083419400969254
+ASV674,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.00741431275923964,0.00414601365792404,0.0106826118605553
+ASV688,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00740581181642653,0.00823243579704034,0.00657918783581271
+ASV680,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.00733821751291379,0,0.0146764350258276
+ASV697,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,[Clostridium] methylpentosum group,0.00730322472283623,0.00800282031259824,0.00660362913307421
+ASV666,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII UCG-001,0.00728951127684411,0.00339198969608362,0.0111870328576046
+ASV731,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00728063725615891,0.00191152602309885,0.012649748489219
+ASV719,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,0.00727132632487718,0.0097241995286402,0.00481845312111415
+ASV683,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,0.00722652637644472,0.0056829412927456,0.00877011146014383
+ASV728,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,0.00722562719046397,0.00796307874998596,0.00648817563094198
+ASV709,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,0.00711321574440339,0.00945340417084192,0.00477302731796486
+ASV966,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.00709509543272763,0.0102573119981244,0.00393287886733089
+ASV689,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.00707810314339693,0,0.0141562062867939
+ASV497,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-009,0.00707667583174447,0.00354397794882901,0.0106093737146599
+ASV708,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00705928279725774,0.00799289905094704,0.00612566654356845
+ASV967,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00702608619658098,0.014052172393162,0
+ASV738,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.00700106505679038,0.0140021301135808,0
+ASV795,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.00699182870729658,0.00633837730987348,0.00764528010471968
+ASV823,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.0069330195723343,0.0071689259645464,0.0066971131801222
+ASV856,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,0.00687936143765294,0.00589403386298994,0.00786468901231593
+ASV698,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Papillibacter,0.00679608038522358,0.00474336145259577,0.0088487993178514
+ASV766,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00677368323865123,0.00874541927116006,0.00480194720614239
+ASV761,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00675136446019535,0.00632265870984656,0.00718007021054413
+ASV705,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.0067400533167676,0.00345313760818253,0.0100269690253527
+ASV696,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.00671751791456661,0,0.0134350358291332
+ASV752,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,[Eubacterium] siraeum group,0.00670229600097164,0,0.0134045920019433
+ASV730,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00661694599900914,0.00351384454751722,0.00972004745050107
+ASV613,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.00651908754635218,0.00805683642845331,0.00498133866425104
+ASV754,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.0064928945517544,0.00824505296821907,0.00474073613528973
+ASV746,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum,0.00648761380879689,0.00988934360825898,0.0030858840093348
+ASV758,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,0.0064794908249713,0.0129589816499426,0
+ASV767,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00643882905785476,0.00642085254380469,0.00645680557190483
+ASV775,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.0064368475439541,0.00799916220639052,0.00487453288151767
+ASV716,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.00642966807035133,0.00487311077330019,0.00798622536740248
+ASV712,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.00641201357361756,0.00963771610734771,0.00318631103988741
+ASV751,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae FCS020 group,0.00636246731296226,0.00516020722776524,0.00756472739815929
+ASV815,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,0.00634052526599163,0.00619287490104128,0.00648817563094198
+ASV743,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.00633428914708995,0.0069952383289971,0.00567333996518279
+ASV783,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.00633327047775243,0.004179148081988,0.00848739287351687
+ASV831,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Eisenbergiella,0.00626608131291544,0.0105010871713777,0.00203107545445313
+ASV734,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.00625015061639608,0.0109459615163037,0.00155433971648844
+ASV765,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,0.00624629854754908,0.00320034547475081,0.00929225162034735
+ASV793,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Solobacterium,0.00624536544747379,0.0122702302113955,0.000220500683552119
+ASV785,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00624471657613016,0.011373237148242,0.00111619600401831
+ASV722,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Coriobacteriaceae UCG-003,0.00622972987383298,0.00455635486424395,0.00790310488342201
+ASV604,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,0.00622088659718138,0.00397623526608653,0.00846553792827623
+ASV711,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.00613067255173149,0.0100548333833982,0.00220651172006481
+ASV828,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.0061141198336026,0.00576800353443621,0.00646023613276899
+ASV806,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.00606564967206907,0.00276090557702927,0.00937039376710887
+ASV794,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,0.00606213074195763,0.0104499674778878,0.00167429400602746
+ASV769,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00604752349503563,0.00528180621442471,0.00681324077564655
+ASV736,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00603253184752637,0.0039533093360521,0.00811175435900063
+ASV776,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.00602308612156824,0.00804698233911745,0.00399918990401903
+ASV733,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.0060200052153046,0.00343313705499261,0.00860687337561659
+ASV885,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,NA,0.00601853159707428,0.000782064650677789,0.0112549985434708
+ASV788,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00601252548558678,0.00211354873902334,0.00991150223215023
+ASV724,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,DTU089,0.00599158471155278,0.00379261061093623,0.00819055881216934
+ASV764,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00598701228935846,0.0106797955706686,0.00129422900804827
+ASV762,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-004,0.00594175724214559,0.000999400359784129,0.0108841141245071
+ASV803,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,0.00592556790308444,0.00750973459232085,0.00434140121384804
+ASV836,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.005905499038752,0.00770913422438268,0.00410186385312133
+ASV799,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.00590134697159274,0.00759753304868347,0.004205160894502
+ASV690,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.00589540264537442,0.00356370629846127,0.00822709899228758
+ASV521,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00588892621001663,0.00269991654803397,0.00907793587199929
+ASV678,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00584520544602144,0.00648671656246687,0.00520369432957602
+ASV801,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Mogibacterium,0.00583694549787874,0.00715038947429606,0.00452350152146142
+ASV809,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,0.00583397058454501,0.01166794116909,0
+ASV720,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-001,0.00582407156752262,0.000370626606048626,0.0112775165289966
+ASV808,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00582083153894645,0.00314117978380018,0.00850048329409272
+ASV749,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.00580960970059331,0.00240949340401181,0.0092097259971748
+ASV707,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Phocea,0.00578475680730347,0.0046551273198389,0.00691438629476803
+ASV813,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Hydrogenoanaerobacterium,0.00576026883496024,0.00377112679416825,0.00774941087575222
+ASV901,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00574647136499998,0.00169447340980188,0.00979846932019809
+ASV774,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Extibacter,0.0057420109579322,0.00150593337750738,0.00997808853835702
+ASV759,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.00572378983369721,0.00104275286757039,0.010404826799824
+ASV787,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Slackia,0.00556397184822784,0.00572353308134989,0.00540441061510579
+ASV830,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.00555469663348235,0.00666325902464144,0.00444613424232327
+ASV777,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.00554450976669482,0.00551382617923056,0.00557519335415907
+ASV790,Bacteria,Bacillota,Bacilli,Izemoplasmatales,NA,NA,0.00549714445840126,0.00655417074134954,0.00444011817545298
+ASV826,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00549496653221492,0,0.0109899330644298
+ASV798,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00549046126940915,0.00555939909072939,0.00542152344808891
+ASV786,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.00545806951295466,0.00308056092112118,0.00783557810478814
+ASV812,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.00545364433368137,0.00195516162669447,0.00895212704066826
+ASV914,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,0.00545166710256227,0.00547445255474453,0.00542888165038002
+ASV864,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00539432048536168,0.00498212297051755,0.0058065180002058
+ASV857,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,0.00538056383493044,0.00681195407031608,0.00394917359954481
+ASV907,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,UCG-004,0.00537327037274994,0.00469238790406674,0.00605415284143314
+ASV868,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.0053495639237071,0.00545528935763968,0.00524383848977452
+ASV906,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00532663702051162,0.0106532740410232,0
+ASV889,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,0.00532076828289153,0.00691347924466209,0.00372805732112097
+ASV886,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.00530709471624817,0.00638162093171666,0.00423256850077968
+ASV726,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,0.00527100665883556,0,0.0105420133176711
+ASV1004,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00520654222613132,0.00644745325596389,0.00396563119629874
+ASV859,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.0051586947866733,0.00775272904114069,0.00256466053220592
+ASV827,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.00512103906004031,0.00213342703679534,0.00810865108328528
+ASV821,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,0.0051051328645184,0.00481898680802361,0.00539127892101319
+ASV866,Bacteria,Bacillota,Bacilli,Izemoplasmatales,NA,NA,0.00510191684774429,0.00888195663005567,0.00132187706543291
+ASV894,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00507718493933243,0.00107396703897524,0.00908040283968962
+ASV937,Bacteria,Bacillota,Clostridia,Clostridia UCG-014,NA,NA,0.00505550096757972,0.00362282630421747,0.00648817563094198
+ASV926,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.00503496783539131,0.00687087747351589,0.00319905819726673
+ASV913,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,0.00501940441041264,0.00364963503649635,0.00638917378432893
+ASV837,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.00499727621063559,0.00292124925762623,0.00707330316364495
+ASV899,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,0.00495738671670033,0.0082827167310878,0.00163205670231286
+ASV770,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Thomasclavelia,0.00492759877707641,0.00869799105065227,0.00115720650350055
+ASV860,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.00491563735216564,0.00783085356303837,0.0020004211412929
+ASV875,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00489694181551252,0.00483141226727974,0.00496247136374531
+ASV867,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00486663926534573,0.00283363158302197,0.00689964694766949
+ASV848,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,0.00486608204947213,0.00712808465353493,0.00260407944540932
+ASV805,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Raoultella,0.00486463536635315,0,0.0097292707327063
+ASV862,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruthenibacterium,0.00486089801331109,0.00972179602662217,0
+ASV932,Bacteria,Bacillota,Clostridia,Clostridiales,Clostridiaceae,Clostridium,0.00480297284897277,0.00249682694908554,0.00710911874886
+ASV890,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Senegalimassilia,0.00475373943451409,0.00403592164411397,0.00547155722491421
+ASV874,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00473711558281452,0.00305670589406966,0.00641752527155937
+ASV838,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00473388548979778,0.00311391643351064,0.00635385454608492
+ASV843,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.00472387843146006,0.00299238321132298,0.00645537365159713
+ASV938,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00465891710683539,0.00695630088407407,0.00236153332959671
+ASV861,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00459566028190847,0.00240949340401181,0.00678182715980513
+ASV832,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00454671574857213,0.00333263779449281,0.00576079370265144
+ASV897,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.00451581643636497,0.00766544266489825,0.00136619020783169
+ASV878,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.00448916232986007,0.00145648238696656,0.00752184227275357
+ASV933,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00447827128455374,0.00287327603437937,0.0060832665347281
+ASV892,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Oribacterium,0.00445966987200022,0.00393410606895511,0.00498523367504534
+ASV852,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.00444823671446673,0,0.00889647342893346
+ASV804,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,0.00444338631184536,0,0.00888677262369073
+ASV879,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00430798236398987,0.00455381381907347,0.00406215090890627
+ASV839,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.0042909570959403,0.00125495708046785,0.00732695711141275
+ASV903,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,NA,0.00428163193448803,0.00252039728413988,0.00604286658483618
+ASV893,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.00427311737930549,0.00562215127602755,0.00292408348258343
+ASV887,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00426127525891852,0.00495727500042638,0.00356527551741067
+ASV982,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00425634538133379,0.00424039054680617,0.00427230021586141
+ASV929,Bacteria,Bacillota,Clostridia,Lachnospirales,Defluviitaleaceae,Defluviitaleaceae UCG-011,0.00420914745139525,0.00451408653357798,0.00390420836921252
+ASV891,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00416383624234825,0.00526234943260535,0.00306532305209115
+ASV883,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Flavonifractor,0.00413581127097451,0,0.00827162254194902
+ASV922,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00412061447020194,0.00461032293216538,0.00363090600823849
+ASV945,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.00410652269963686,0.00150178415440697,0.00671126124486674
+ASV947,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00406080898826471,0.00745504018690136,0.000666577789628049
+ASV818,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.00405993738210011,0,0.00811987476420023
+ASV918,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerobutyricum,0.00401999747426627,0,0.00803999494853254
+ASV936,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00399263848414696,0,0.00798527696829391
+ASV978,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.00398731641171221,0.000781066937436538,0.00719356588598788
+ASV923,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00397373135947459,0.00409692609607466,0.00385053662287452
+ASV756,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,0.00395251269160031,0.00591532359729253,0.00198970178590809
+ASV1036,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.00394754075761998,0.00312825860271116,0.0047668229125288
+ASV931,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,0.00394708391639471,0.00354447134447654,0.00434969648831287
+ASV704,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-003,0.00392217822454893,0.00417259830150704,0.00367175814759081
+ASV902,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Mailhella,0.00391517505711849,0.00301189699312284,0.00481845312111415
+ASV925,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,0.00389761811957377,0.0060012602217743,0.00179397601737324
+ASV946,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00387195253322582,0.00510015093558581,0.00264375413086583
+ASV811,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00383057758519093,0.00503154108383886,0.00262961408654299
+ASV845,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Eisenbergiella,0.00382793168911954,0.000401582234001968,0.0072542811442371
+ASV984,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00381858276456563,0.00197665466802605,0.00566051086110521
+ASV870,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,Agathobaculum,0.00381082504797527,0.00311226231351525,0.00450938778243529
+ASV855,Bacteria,Bacteroidota,Bacteroidia,NA,NA,NA,0.00380935105265067,0.000969482487936635,0.00664921961736471
+ASV930,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,0.00378456907926772,0.00358272385847005,0.00398641430006538
+ASV910,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00369965795582367,0.00460882590160157,0.00279049001004576
+ASV977,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0036947743275107,0.00380984766533935,0.00357970098968204
+ASV996,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00367240886265899,0,0.00734481772531798
+ASV955,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00366465126976886,0.00425023313163157,0.00307906940790616
+ASV915,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Enterocloster,0.00363431887041926,0.00208629915075352,0.00518233859008499
+ASV989,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.0036271467866032,0.00322190111692572,0.00403239245628067
+ASV1016,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,NA,0.00362292632317586,0.00579592193077238,0.00144993071557934
+ASV898,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00362229080156169,0,0.00724458160312338
+ASV948,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00361841969946378,0.000525440056046939,0.00671139934288062
+ASV928,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00359955586677964,0.00255032271175107,0.00464878902180822
+ASV747,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,0.00359632389324971,0.00385975883835916,0.00333288894814025
+ASV1012,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,0.00355981520667936,0.00166184471498492,0.0054577856983738
+ASV962,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,0.00354730191343596,0.0041413583655439,0.00295324546132803
+ASV939,Bacteria,Bacillota,Clostridia,Lachnospirales,Defluviitaleaceae,Defluviitaleaceae UCG-011,0.00354484147954254,0,0.00708968295908508
+ASV960,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Flavonifractor,0.00353987084560785,0.00209560133280245,0.00498414035841326
+ASV935,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00353556650310692,0.00261028452101279,0.00446084848520104
+ASV954,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00351609593315474,0.00400785139767308,0.00302434046863639
+ASV958,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,Agathobaculum,0.0034543505553989,0.00621388858606781,0.000694812524729985
+ASV924,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00344135096228372,0.00386087658847509,0.00302182533609235
+ASV1000,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.0034324821777568,0.00472162932460454,0.00214333503090906
+ASV950,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0034056587190635,0.00322506814256882,0.00358624929555817
+ASV1072,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,0.00335759157700855,0.00274835098940636,0.00396683216461074
+ASV941,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Eggerthella,0.00334988791141872,0,0.00669977582283744
+ASV912,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.00334622191747012,0,0.00669244383494024
+ASV985,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,0.00332515879502501,0.0058731477318058,0.000777169858244218
+ASV973,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00331671473447415,0.00297749365093266,0.00365593581801564
+ASV1051,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.00328215730522269,0.0023317461096657,0.00423256850077968
+ASV1011,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.00322937848822879,0.00340548260290525,0.00305327437355233
+ASV942,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.00321688902961513,0.00191195552295152,0.00452182253627874
+ASV959,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.00316007549846855,0.00119693771756828,0.00512321327936882
+ASV1084,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Terrisporobacter,0.00312725536994309,0.00570624508690179,0.000548265652984393
+ASV980,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.00309375843436149,0.00464401208385816,0.00154350478486483
+ASV1007,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00308870413091998,0.00177420232104111,0.00440320594079885
+ASV1110,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00307756002235563,0.00430135557872784,0.00185376446598342
+ASV1006,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,0.00305924582407115,0.00382316023592434,0.00229533141221796
+ASV993,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Marvinbryantia,0.00305607297952236,0.00144025809425049,0.00467188786479423
+ASV1066,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,[Clostridium] methylpentosum group,0.00305317127265537,0.00200793132874856,0.00409841121656218
+ASV1042,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,0.0030488027666269,0.00466367747924209,0.00143392805401171
+ASV972,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Dielma,0.00303928502730798,0.00300562482537599,0.00307294522923998
+ASV1109,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,0.00302741714358216,0.00162402558464921,0.0044308087025151
+ASV1099,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.00302177887032475,0.00338894681960375,0.00265461092104575
+ASV981,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00301984041046069,0.00245031067621304,0.00358937014470833
+ASV1024,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.0030169747859162,0.00512017348352509,0.000913776088307321
+ASV1071,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.00298101233304316,0,0.00596202466608631
+ASV744,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII UCG-001,0.00297815893444438,0.00291147119651427,0.0030448466723745
+ASV1034,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00296164140962779,0.000651720542231491,0.0052715622770241
+ASV1092,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.00294876014370207,0.0021899913554373,0.00370752893196684
+ASV990,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00293050771733927,0.00415063667095505,0.00171037876372349
+ASV1086,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00289409440741364,0.00346781989610423,0.00232036891872306
+ASV1119,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00287045002248203,0.00423832637353417,0.00150257367142989
+ASV1022,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ventriosum group,0.00286541462996624,0.0037259283911421,0.00200490086879038
+ASV1073,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,0.00285880009160223,0.000874475314811113,0.00484312486839335
+ASV1087,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.00285632560871638,0.00195516162669447,0.0037574895907383
+ASV997,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00283636373373907,0.0016314442046082,0.00404128326286993
+ASV1078,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Senegalimassilia,0.00281914955659814,0.00519729774609204,0.000441001367104238
+ASV1053,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.00277747115189256,0.00324949632806915,0.00230544597571597
+ASV1070,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00276234452359485,0.00228323892538454,0.00324145012180516
+ASV1064,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.00273308009727218,0.00464066902729984,0.000825491167244511
+ASV1014,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.00266994645000817,0.00440668399453706,0.000933208905479269
+ASV1046,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,UC5-1-2E3,0.00264829693615818,0.0025098889625123,0.00278670490980406
+ASV1137,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,UCG-004,0.00259479548892903,0.00296549474133006,0.002224096236528
+ASV1095,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00256154217485308,0.00303862193256355,0.00208446241714262
+ASV1102,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00255248514353406,0.0039533093360521,0.00115166095101602
+ASV1035,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.00255038490234806,0.00283440531996075,0.00226636448473537
+ASV1039,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,NA,0.00253756076391209,0.000208068912423795,0.00486705261540038
+ASV1079,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,0.00253436046544489,0.000576579346927793,0.00449214158396198
+ASV1026,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Anaerofilum,0.00252765967871534,0,0.00505531935743067
+ASV1067,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.00248107865783481,0.00180284246005885,0.00315931485561077
+ASV1081,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00247501527596639,0.00220870228701082,0.00274132826492196
+ASV1056,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemania,0.0024588352105008,0.00405810245143061,0.000859567969570984
+ASV1058,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Faecalimonas,0.00243635769165287,0,0.00487271538330574
+ASV1105,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Acutalibacter,0.00243168517424304,0.00297653339478435,0.00188683695370174
+ASV1115,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.00241343179860538,0.00135244793075467,0.0034744156664561
+ASV1112,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00240104949772683,0.00480209899545366,0
+ASV1082,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.00239385372893855,0.000401582234001968,0.00438612522387514
+ASV1165,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-008,0.00239351317732509,0.00478702635465017,0
+ASV1085,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Angelakisella,0.00235794290633623,0.0018860411995222,0.00282984461315026
+ASV1015,Bacteria,Bacillota,Clostridia,Lachnospirales,Defluviitaleaceae,Defluviitaleaceae UCG-011,0.00235504571905871,0.000941702193519196,0.00376838924459823
+ASV1104,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00232496683153618,0,0.00464993366307236
+ASV909,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00231709808415178,0,0.00463419616830355
+ASV1118,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,0.00231364713541469,0.00336843057662842,0.00125886369420096
+ASV944,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes,0.0023127659535498,0.00102601184310813,0.00359952006399147
+ASV1157,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.00229596659268197,0.000525440056046939,0.004066493129317
+ASV1151,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.00229382801989241,0.00175740060923221,0.00283025543055261
+ASV1141,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00228616417675093,0.00340657356613554,0.00116575478736633
+ASV1065,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00226705590343119,0.00166389351081531,0.00287021829604707
+ASV1111,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00223971914347668,0.00183904019616429,0.00264039809078907
+ASV1223,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00223859387395048,0.00156412930135558,0.00291305844654538
+ASV1172,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00222731293564043,0.00260086140529743,0.00185376446598342
+ASV1138,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,0.00217222104602508,0.00377792334972177,0.000566518742328392
+ASV1044,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Flavonifractor,0.00216842730625726,0.00100396566437428,0.00333288894814025
+ASV1166,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00216049397357813,0.00338838411726319,0.000932603829893061
+ASV1136,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Harryflintia,0.00211618143996647,0.000602373351002952,0.00362998952892999
+ASV1158,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.00210752932528115,0.00421505865056229,0
+ASV1116,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,0.00208623639428888,0.00292900101538702,0.00124347177319075
+ASV1100,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.00203032058448167,0,0.00406064116896334
+ASV1021,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.00201748891469048,0,0.00403497782938095
+ASV1186,Bacteria,Cyanobacteriota,Vampirivibrionia,Gastranaerophilales,Gastranaerophilaceae,CAG-196,0.00199004902127477,0.00398009804254955,0
+ASV1273,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00197583801793394,0.00130344108446298,0.00264823495140489
+ASV1156,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,0.00195555445423093,0.00228875803666174,0.00162235087180013
+ASV1103,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00195290255259738,0,0.00390580510519476
+ASV1197,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.00194570802248982,0.00196450465701922,0.00192691138796042
+ASV1027,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00193937091965406,0.00213774438093115,0.00174099745837698
+ASV1187,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00193170449739493,0.00276090557702927,0.00110250341776059
+ASV1174,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,0.0019217625373107,0.00092888052916915,0.00291464454545226
+ASV1285,Bacteria,Bacillota,Bacilli,Erysipelotrichales,NA,NA,0.00191376742239671,0.000782064650677789,0.00304547019411562
+ASV1176,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Gemmiger,0.00185956239877217,0.00207974891758522,0.00163937587995911
+ASV1207,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00185548799895467,0,0.00371097599790933
+ASV1195,Bacteria,Pseudomonadota,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,0.00184971743970521,0.00274393191735124,0.000955502962059182
+ASV1246,Bacteria,Actinomycetota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,0.00183985558974689,0.00367971117949378,0
+ASV1237,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00182147073460118,0.00249128051818635,0.00115166095101602
+ASV1173,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00181867069563792,0.00231322391557339,0.00132411747570244
+ASV1196,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.00180757352762734,0.00151346205214785,0.00210168500310684
+ASV1159,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00179323332760025,0.00125495708046785,0.00233150957473265
+ASV1212,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00177610729694727,0,0.00355221459389453
+ASV1164,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,NA,0.00175892871177294,0.000613013398721429,0.00290484402482444
+ASV1266,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00174731216882324,0.00223120045893517,0.00126342387871131
+ASV1239,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,Victivallis,0.0017447793567142,0.00136686714051394,0.00212269157291446
+ASV1199,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00174331547908223,0.000752974248280709,0.00273365670988376
+ASV1243,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,0.00173804373916105,0.0012256444568228,0.00225044302149929
+ASV1235,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.00173759515381217,0.00202868217824864,0.00144650812937569
+ASV1229,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00173551624135671,0.00229530164258682,0.00117573084012661
+ASV1232,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-007,0.00173190263907694,0.00220038139944257,0.00126342387871131
+ASV1043,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00172034561931025,0.0034406912386205,0
+ASV1259,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,0.00171666683870739,0.000651720542231491,0.0027816131351833
+ASV1325,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00171101452279345,0.00130344108446298,0.00211858796112391
+ASV1233,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Ruminiclostridium,0.00171079083409305,0.00238296397391738,0.00103861769426872
+ASV1222,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,0.00170500290404043,0.00301186675501476,0.000398139053066099
+ASV1211,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,NA,0.0017049188536802,0.00278449898221761,0.000625338725142786
+ASV1210,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,[Eubacterium] brachy group,0.00168430793091702,0.00188129278823742,0.00148732307359662
+ASV1261,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00168051146694524,0,0.00336102293389048
+ASV1242,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.00167341786443551,0.00220038139944257,0.00114645432942844
+ASV1190,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00167093196987078,0,0.00334186393974155
+ASV1216,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00166331587405235,0.00270489586150933,0.000621735886595374
+ASV1275,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.00165474937569043,0.000859064356192627,0.00245043439518824
+ASV1313,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,0.00165439841382574,0.000749550269838097,0.00255924655781338
+ASV1341,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Bilophila,0.00164687628813227,0.00104275286757039,0.00225099970869416
+ASV1206,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Caproiciproducens,0.00164633420784357,0.000764702860210609,0.00252796555547654
+ASV1234,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Anaerofilum,0.00163362460606506,0.00282171568573225,0.000445533526397861
+ASV1214,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,0.00162465041004505,0.0013589642221783,0.0018903365979118
+ASV1038,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,Candidatus Methanogranum,0.00161040303644011,0.00195430827258692,0.00126649780029329
+ASV1272,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.00157972050650433,0.000866532354151773,0.00229290865885688
+ASV1248,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,NA,NA,0.00155766168329348,0,0.00311532336658697
+ASV1312,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.00154498095977425,0.0030899619195485,0
+ASV1257,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,0.00154424610713129,0.0025098889625123,0.000578603251750275
+ASV1299,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Howardella,0.00154336599409097,0.000859064356192627,0.00222766763198931
+ASV1238,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00154320328831955,0.00180712005300886,0.00127928652363025
+ASV1282,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00152345057966973,0,0.00304690115933946
+ASV1284,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Adlercreutzia,0.00151586889261374,0.000769168492172571,0.00226256929305491
+ASV1083,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Amedibacillus,0.00151027154753743,0.0026424641143758,0.000378078980699068
+ASV1287,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00150956116384379,0.00245446958912179,0.000564652738565782
+ASV1179,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.00150408565176256,0.000803164468003936,0.00220500683552119
+ASV1283,Bacteria,Actinomycetota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,0.00150361105450128,0.00300722210900255,0
+ASV1253,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,0.00148849653423443,0.00160632893600787,0.00137066413246098
+ASV1302,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.00147025502512509,0.00117160040615481,0.00176890964409538
+ASV1293,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.00146957062119079,0.000733460466480857,0.00220568077590073
+ASV1230,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,0.00146744427210605,0.000939292547619976,0.00199559599659212
+ASV1373,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00146740678087013,0.00200793132874856,0.000926882232991711
+ASV1168,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00146488012789164,0,0.00292976025578328
+ASV1244,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,0.00145527262283247,0,0.00291054524566494
+ASV1331,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae NK3B31 group,0.00145319022239361,0,0.00290638044478723
+ASV1250,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.00144147051376582,0.00187262021181415,0.00101032081571748
+ASV1397,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00142663985124239,0.00208550573514077,0.000767773967344014
+ASV1298,Bacteria,Bacillota,Clostridia,Oscillospirales,Ethanoligenenaceae,Acetanaerobacterium,0.00142641703815102,0.00264108929933987,0.000211744776962168
+ASV1249,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00141846050338321,0.00041912026656049,0.00241780074020593
+ASV1322,Bacteria,Bacillota,Incertae Sedis,DTU014,NA,NA,0.0014093988384537,0,0.00281879767690741
+ASV1270,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.00140464839847814,0.00125495708046785,0.00155433971648844
+ASV1333,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.00140147082280654,0.00225892274484213,0.000544018900770953
+ASV1330,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,0.00138985665685503,0.00277971331371007,0
+ASV1251,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,NA,0.0013887632526154,0.000728241193483282,0.00204928531174753
+ASV1349,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.00138650169100551,0.00238441845288891,0.000388584929122109
+ASV1291,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,NA,0.0013818921140769,0.00208068912423795,0.000683095103915843
+ASV1395,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,NA,0.00136341967811754,0.000782064650677789,0.00194477470555728
+ASV1328,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.00133595773356116,0.00267191546712232,0
+ASV1264,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Enterocloster,0.00132490987038396,0.000736340876736537,0.00191347886403138
+ASV1215,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00127607127452846,0.00208553809631729,0.000466604452739635
+ASV1345,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00127283934191966,0.00143184486784467,0.00111383381599465
+ASV1350,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.0012670548854496,0.00175693991265499,0.000777169858244218
+ASV1260,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.00126001953336251,0,0.00252003906672503
+ASV1142,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,0.00124527320508456,0.00170672449450836,0.000783821915660762
+ASV1294,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Sellimonas,0.00123584137419535,0,0.00247168274839071
+ASV1402,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.00123189604500582,0.00134995827401698,0.00111383381599465
+ASV1296,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.00122100276851194,0.00140553781900689,0.001036467718017
+ASV1340,Bacteria,Bacillota,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Veillonella,0.00121865064729129,0.000963306769419389,0.00147399452516319
+ASV1384,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,NA,0.00118933789962518,0.00175693991265499,0.000621735886595374
+ASV1462,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,0.0011803337129505,0.00143378519290928,0.000926882232991711
+ASV1348,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.00114114385822348,0,0.00228228771644695
+ASV1359,Bacteria,Bacillota,NA,NA,NA,NA,0.00114102889170697,0.00100395558500492,0.00127810219840902
+ASV1378,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.00113990752621422,0.00035029337069796,0.00192952168173048
+ASV1258,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00113315061720932,0.000866487876199737,0.0013998133582189
+ASV1396,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00112503590297265,0.000733460466480857,0.00151661133946445
+ASV1390,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.00112199821755416,0.00129979853122766,0.000944197903880653
+ASV1289,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,0.00112059811801038,0.00184124956224392,0.00039994667377683
+ASV1394,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,0.00111338571812425,0.00035029337069796,0.00187647806555053
+ASV1381,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes,0.00108710577584216,0,0.00217421155168433
+ASV1309,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00108372832233913,0.00113845345476837,0.00102900318990989
+ASV1178,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.00107959704273791,0.00102601184310813,0.00113318224236768
+ASV1314,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.00107503284848809,0.00175011902319934,0.00039994667377683
+ASV1424,Bacteria,Bacillota,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,0.00107253987926533,0,0.00214507975853065
+ASV1426,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.0010686983990181,0.00140627138794917,0.00073112541008702
+ASV1393,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Hoylesella,0.00104108657782922,0.00170672449450836,0.000375448661150074
+ASV1374,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,0.00103495778160733,0,0.00206991556321466
+ASV1366,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenella,0.00103447955866756,0.000702768909503444,0.00136619020783169
+ASV1425,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000999029427753499,0.000903560026504428,0.00109449882900257
+ASV1429,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.000995318820686929,0,0.00199063764137386
+ASV1521,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,0.000983783730719075,0.00117309697601668,0.000794470485421467
+ASV1520,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.000982749911157102,0.00130344108446298,0.000662058737851222
+ASV1523,Bacteria,Bacillota,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,0.000981716091595129,0.00143378519290928,0.000529646990280978
+ASV1321,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,0.000969576076882966,0.00017514668534898,0.00176400546841695
+ASV1428,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,[Clostridium] methylpentosum group,0.000956282413302536,0,0.00191256482660507
+ASV1227,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,0.000954007288658304,0.00102601184310813,0.000882002734208476
+ASV1460,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.000953754185793428,0,0.00190750837158686
+ASV1410,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000940750273098472,0,0.00188150054619694
+ASV1386,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Hungatella,0.000940374329516681,0.00110435114350541,0.00077639751552795
+ASV1182,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.000940333305144684,0.00106669769787242,0.000813968912416945
+ASV1474,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,0.000931353333160279,0.000683433570256971,0.00117927309606359
+ASV1461,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.000923906688460873,0.000832275649695179,0.00101553772722657
+ASV1572,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,NA,0.000916883139506714,0.00117226422835707,0.000661502050656357
+ASV1447,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.00091105833409147,0.00111124025912434,0.000710876409058596
+ASV1308,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Massiliomicrobiota,0.000901347171576986,0.000195430827258692,0.00160726351589528
+ASV1485,Bacteria,Bacillota,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Ezakiella,0.000900709784099867,0.0014825064241945,0.00031891314400523
+ASV1434,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae FCS020 group,0.000896724648929452,0.00135244793075467,0.000441001367104238
+ASV1533,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,NA,0.000886624446481724,0.000749550269838097,0.00102369862312535
+ASV1413,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.000883047634816068,0.00064989926561383,0.00111619600401831
+ASV1405,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.000881222519559426,0,0.00176244503911885
+ASV1481,Bacteria,Bacillota,NA,NA,NA,NA,0.000879373426490876,0,0.00175874685298175
+ASV1411,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,0.000878302228434819,0.000244288534073365,0.00151231592279627
+ASV1360,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,0.000876282017259072,0,0.00175256403451814
+ASV1480,Bacteria,Bacillota,Clostridia,Oscillospirales,NA,NA,0.000850167006781767,0.00131459851239668,0.00038573550116685
+ASV1497,Bacteria,Bacillota,Clostridia,Oscillospirales,UCG-010,NA,0.000836012749989013,0.000838240533120979,0.000833784966857048
+ASV1701,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Oribacterium,0.000823486069305909,0.000879198171267804,0.000767773967344014
+ASV1500,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.000814311852943501,0,0.001628623705887
+ASV1446,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,Butyricicoccus,0.000814154044171132,0,0.00162830808834226
+ASV1532,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.00081370396476613,0.000736340876736537,0.000891067052795723
+ASV1496,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,Victivallaceae,NA,0.000813167552705753,0,0.00162633510541151
+ASV1515,Bacteria,Bacillota,Clostridia,Clostridia vadinBB60 group,NA,NA,0.000803280418888199,0.000974848898420745,0.000631711939355654
+ASV1518,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000800990972358318,0.0012047467020059,0.000397235242710733
+ASV1427,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,0.000798331295214089,0.000788160084070409,0.00080850250635777
+ASV1344,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,0.000798030583994258,0.0013960878311001,0.000199973336888415
+ASV1519,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.000788978075098786,0.000613617397280448,0.000964338752917125
+ASV1554,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,NA,0.000783664042896756,0.00156732808579351,0
+ASV1467,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,0.000780041185063493,0.000627478540233924,0.000932603829893061
+ASV1506,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,0.000773992282572615,0.00100396566437428,0.000544018900770953
+ASV1541,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,NA,0.000759023150771586,0.00112946137242106,0.000388584929122109
+ASV1576,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Opitutales,Puniceicoccaceae,NA,0.000736086598801144,0.000292900101538702,0.00117927309606359
+ASV1495,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Opitutales,Puniceicoccaceae,NA,0.000730524137524758,0,0.00146104827504952
+ASV1423,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.000718921780267827,0,0.00143784356053565
+ASV1416,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000698038496953013,0.000146573120444019,0.00124950387346201
+ASV1553,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.000691757935087891,0,0.00138351587017578
+ASV1545,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.000688583177046271,0.00108316544268972,0.000294000911402825
+ASV1584,Bacteria,Bacillota,Clostridia,Peptococcales,Peptococcaceae,NA,0.000681322739623571,0.000700586741395919,0.000662058737851222
+ASV1617,Bacteria,Bacillota,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,0.000680333951214032,0.000782064650677789,0.000578603251750275
+ASV1580,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.00067884265002883,0.000523900333200612,0.000833784966857048
+ASV1555,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,0.000662396739333652,0.0013247934786673,0
+ASV1615,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,0.000658443246987046,0,0.00131688649397409
+ASV1382,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Asaccharobacter,0.000653135243924261,0.000439719361332056,0.000866551126516465
+ASV1570,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,0.000648496574525831,0.000752974248280709,0.000544018900770953
+ASV1556,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,0.000633445958053762,0,0.00126689191610752
+ASV1503,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000626255154950671,0,0.00125251030990134
+ASV1453,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,GCA-900066755,0.000610416491067069,0,0.00122083298213414
+ASV1614,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NA,0.00060637104709841,0,0.00121274209419682
+ASV1727,Bacteria,Verrucomicrobiota,Lentisphaeria,Victivallales,vadinBE97,NA,0.000590683766256235,0.000651720542231491,0.000529646990280978
+ASV1792,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,0.000586599541335315,0.000879198171267804,0.000294000911402825
+ASV1324,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,0.000585029203086132,0,0.00117005840617226
+ASV1613,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,NA,0.000573878490837776,0.00114775698167555,0
+ASV1665,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea,0.000561424603952785,0.00112284920790557,0
+ASV1569,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,NA,NA,0.000554087051932569,0.000520172281059487,0.000588001822805651
+ASV1566,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000553372591638839,0.00110674518327768,0
+ASV1692,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Angelakisella,0.000543681766599475,0.000376487124140354,0.000710876409058596
+ASV1726,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Parolsenella,0.000539098281349406,0.000416137824847589,0.000662058737851222
+ASV1626,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,[Clostridium] innocuum group,0.000534741441754503,0.000247084404032418,0.000822398479476589
+ASV1691,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,0.000522507968743133,0.000523900333200612,0.000521115604285655
+ASV1620,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,0.000518852199327331,0,0.00103770439865466
+ASV1690,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,0.000517097739871497,0,0.00103419547974299
+ASV1616,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerotignum,0.000495304012486469,0,0.000990608024972939
+ASV1684,Bacteria,Bacillota,Clostridia,Oscillospirales,Ethanoligenenaceae,Acetanaerobacterium,0.000473126635237879,0.000672120443983562,0.000274132826492196
+ASV1725,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,0.000456141262482996,0.000912282524965992,0
+ASV1772,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Tractidigestivibacter,0.000437591258529402,0.000719748545409961,0.000155433971648844
+ASV1763,Bacteria,Bacillota,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Merdibacter,0.000393331403094695,0.000288051618850098,0.000498611187339291
+ASV1773,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000392313974882284,0,0.000784627949764568
+ASV1786,Bacteria,Bacillota,Bacilli,RF39,NA,NA,0.000384959876833333,0.000416137824847589,0.000353781928819076
+ASV1743,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenella,0.000378842688402755,0.000416137824847589,0.000341547551957921
+ASV1677,Bacteria,Bacillota,Clostridia,Oscillospirales,Ruminococcaceae,NA,0.000371717897227247,0,0.000743435794454494
+ASV1595,Bacteria,Bacillota,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,0.0003554464934065,0.000244288534073365,0.000466604452739635
+ASV1544,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,0.00031941205502959,0,0.00063882411005918
+ASV1858,Bacteria,Bacillota,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,0.000315349895350193,0.000374775134919049,0.000255924655781338
+ASV1819,Bacteria,Bacillota,Clostridia,NA,NA,NA,0.000293455800413275,0.000416137824847589,0.000170773775978961
+ASV1886,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olsenella,0.000246581129202751,0.000493162258405502,0
+ASV1867,Bacteria,Bacillota,NA,NA,NA,NA,0.000242071186783417,0.00025099141609357,0.000233150957473265
+ASV1910,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenella,0.000203212693871207,0.00025099141609357,0.000155433971648844

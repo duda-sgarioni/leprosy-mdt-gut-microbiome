@@ -1,0 +1,39 @@
+Working directory: /home/hermes/duda/16SrRNA_analysis
+                     Variable              Category                   Value
+                     Patients                                            20
+                          Sex                     M              13 (65.0%)
+                          Sex                     W               7 (35.0%)
+                  Age (years)             mean ± SD             50.0 ± 16.2
+                  Age (years) median (IQR; min-max) 50.0 (37.0-64.0; 22-73)
+                Clinical form                    BL              18 (90.0%)
+                Clinical form                    LL               2 (10.0%)
+ Adverse reaction (up to T12)                   ENL               2 (10.0%)
+ Adverse reaction (up to T12)                     N              11 (55.0%)
+ Adverse reaction (up to T12)                    RR               7 (35.0%)
+  Replacement treatment (ATS)                     N              11 (55.0%)
+  Replacement treatment (ATS)                     Y               9 (45.0%)
+       Other medications (OM)                     N               2 (10.0%)
+       Other medications (OM)                     Y              18 (90.0%)
+
+Age normality (Shapiro-Wilk): W = 0.945, p = 0.302
+R version 4.5.2 (2025-10-31)
+Platform: x86_64-conda-linux-gnu
+Running under: Ubuntu 24.04.5 LTS
+
+Matrix products: default
+BLAS/LAPACK: /home/hermes/duda/.tools/r-4.5.2/lib/libopenblasp-r0.3.34.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Berlin
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.5.2

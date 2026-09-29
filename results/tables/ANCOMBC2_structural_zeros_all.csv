@@ -1,0 +1,194 @@
+"taxon","structural_zero (Group = T0)","structural_zero (Group = T12)"
+"[Bacteroides] pectinophilus group",FALSE,FALSE
+"[Clostridium] innocuum group",FALSE,FALSE
+"[Clostridium] methylpentosum group",FALSE,FALSE
+"[Eubacterium] brachy group",FALSE,FALSE
+"[Eubacterium] eligens group",FALSE,FALSE
+"[Eubacterium] ruminantium group",FALSE,FALSE
+"[Eubacterium] siraeum group",FALSE,FALSE
+"[Eubacterium] ventriosum group",FALSE,FALSE
+"[Eubacterium] xylanophilum group",FALSE,FALSE
+"[Ruminococcus] gauvreauii group",FALSE,FALSE
+"[Ruminococcus] gnavus group",FALSE,FALSE
+"Acetanaerobacterium",FALSE,FALSE
+"Acidaminococcus",FALSE,FALSE
+"Acutalibacter",FALSE,FALSE
+"Adlercreutzia",FALSE,FALSE
+"Agathobacter",FALSE,FALSE
+"Agathobaculum",FALSE,FALSE
+"Akkermansia",FALSE,FALSE
+"Alistipes",FALSE,FALSE
+"Allisonella",FALSE,FALSE
+"Amedibacillus",FALSE,FALSE
+"Anaerobutyricum",FALSE,FALSE
+"Anaerofilum",FALSE,FALSE
+"Anaerostipes",FALSE,FALSE
+"Anaerotignum",TRUE,FALSE
+"Anaerotruncus",FALSE,FALSE
+"Angelakisella",FALSE,FALSE
+"Asaccharobacter",FALSE,FALSE
+"Bacteroides",FALSE,FALSE
+"Barnesiella",FALSE,FALSE
+"Bifidobacterium",FALSE,FALSE
+"Bilophila",FALSE,FALSE
+"Blautia",FALSE,FALSE
+"Butyribacter",FALSE,FALSE
+"Butyricicoccus",TRUE,FALSE
+"Butyricimonas",FALSE,FALSE
+"CAG-196",FALSE,FALSE
+"CAG-352",FALSE,FALSE
+"CAG-56",FALSE,FALSE
+"CAG-873",FALSE,FALSE
+"Candidatus Methanogranum",FALSE,FALSE
+"Candidatus Soleaferrea",FALSE,FALSE
+"Caproiciproducens",FALSE,FALSE
+"Catenibacterium",FALSE,FALSE
+"Catenisphaera",FALSE,FALSE
+"Christensenella",FALSE,FALSE
+"Christensenellaceae R-7 group",FALSE,FALSE
+"Citrobacter",FALSE,TRUE
+"Cloacibacillus",FALSE,FALSE
+"Clostridium",FALSE,FALSE
+"Colidextribacter",FALSE,FALSE
+"Collinsella",FALSE,FALSE
+"Coprobacillus",FALSE,FALSE
+"Coprobacter",FALSE,FALSE
+"Coprococcus",FALSE,FALSE
+"Coriobacteriaceae UCG-003",FALSE,FALSE
+"Defluviitaleaceae UCG-011",FALSE,FALSE
+"Desulfovibrio",FALSE,FALSE
+"Dialister",FALSE,FALSE
+"Dielma",FALSE,FALSE
+"Dorea",FALSE,FALSE
+"DTU089",FALSE,FALSE
+"Eggerthella",TRUE,FALSE
+"Eisenbergiella",FALSE,FALSE
+"Enterocloster",FALSE,FALSE
+"Enterococcus",TRUE,FALSE
+"Erysipelotrichaceae UCG-003",FALSE,FALSE
+"Erysipelotrichaceae UCG-006",FALSE,FALSE
+"Escherichia-Shigella",FALSE,FALSE
+"Eubacterium",FALSE,FALSE
+"Extibacter",FALSE,FALSE
+"Ezakiella",FALSE,FALSE
+"Faecalibacterium",FALSE,FALSE
+"Faecalimonas",FALSE,FALSE
+"Faecalitalea",FALSE,TRUE
+"Family XIII AD3011 group",FALSE,FALSE
+"Family XIII UCG-001",FALSE,FALSE
+"Flavonifractor",FALSE,FALSE
+"Fournierella",FALSE,FALSE
+"Frisingicoccus",FALSE,FALSE
+"Fusicatenibacter",FALSE,FALSE
+"Fusobacterium",FALSE,FALSE
+"Gabonibacter",FALSE,FALSE
+"GCA-900066575",FALSE,FALSE
+"GCA-900066755",TRUE,FALSE
+"Gemmiger",FALSE,FALSE
+"Granulicatella",FALSE,FALSE
+"Haemophilus",FALSE,FALSE
+"Harryflintia",FALSE,FALSE
+"Holdemanella",FALSE,FALSE
+"Holdemania",FALSE,FALSE
+"Howardella",FALSE,FALSE
+"Hoylesella",FALSE,FALSE
+"Hungatella",FALSE,FALSE
+"Hydrogenoanaerobacterium",FALSE,FALSE
+"Intestinibacter",FALSE,FALSE
+"Intestinimonas",FALSE,FALSE
+"Klebsiella",FALSE,FALSE
+"Lachnoclostridium",FALSE,FALSE
+"Lachnospira",FALSE,FALSE
+"Lachnospiraceae AC2044 group",FALSE,FALSE
+"Lachnospiraceae FCS020 group",FALSE,FALSE
+"Lachnospiraceae ND3007 group",FALSE,FALSE
+"Lachnospiraceae NK3A20 group",FALSE,FALSE
+"Lachnospiraceae NK4A136 group",FALSE,FALSE
+"Lachnospiraceae UCG-004",FALSE,FALSE
+"Lachnospiraceae UCG-007",FALSE,FALSE
+"Lachnospiraceae UCG-009",FALSE,FALSE
+"Lachnospiraceae UCG-010",FALSE,FALSE
+"Lachnotalea",FALSE,FALSE
+"Lacticaseibacillus",FALSE,FALSE
+"Lactococcus",FALSE,FALSE
+"Leuconostoc",FALSE,FALSE
+"Leyella",FALSE,FALSE
+"Ligilactobacillus",FALSE,FALSE
+"Limosilactobacillus",FALSE,FALSE
+"Longibaculum",FALSE,FALSE
+"Mailhella",FALSE,FALSE
+"Marvinbryantia",FALSE,FALSE
+"Massiliomicrobiota",FALSE,FALSE
+"Massiliprevotella",FALSE,FALSE
+"Mediterraneibacter",FALSE,FALSE
+"Megamonas",FALSE,FALSE
+"Megasphaera",FALSE,FALSE
+"Merdibacter",FALSE,FALSE
+"Methanobrevibacter",FALSE,FALSE
+"Methanosphaera",FALSE,FALSE
+"Mitsuokella",FALSE,FALSE
+"Mogibacterium",FALSE,FALSE
+"Monoglobus",FALSE,FALSE
+"Negativibacillus",FALSE,FALSE
+"NK4A214 group",FALSE,FALSE
+"Odoribacter",FALSE,FALSE
+"Olsenella",FALSE,TRUE
+"Oribacterium",FALSE,FALSE
+"Oscillibacter",FALSE,FALSE
+"Oscillospira",FALSE,FALSE
+"Oxalobacter",FALSE,FALSE
+"Paludicola",FALSE,FALSE
+"Papillibacter",FALSE,FALSE
+"Parabacteroides",FALSE,FALSE
+"Paraprevotella",FALSE,FALSE
+"Parasutterella",FALSE,FALSE
+"Parolsenella",FALSE,FALSE
+"Peptococcus",FALSE,FALSE
+"Phascolarctobacterium",FALSE,FALSE
+"Phocea",FALSE,FALSE
+"Prevotella",FALSE,FALSE
+"Prevotellaceae NK3B31 group",TRUE,FALSE
+"Prevotellaceae UCG-001",FALSE,FALSE
+"Prevotellaceae UCG-003",FALSE,FALSE
+"Prevotellaceae UCG-004",FALSE,FALSE
+"Pseudoflavonifractor",FALSE,FALSE
+"Pygmaiobacter",FALSE,FALSE
+"Raoultella",TRUE,FALSE
+"Rikenella",FALSE,FALSE
+"Rikenellaceae RC9 gut group",FALSE,FALSE
+"Romboutsia",FALSE,FALSE
+"Roseburia",FALSE,FALSE
+"Ruminiclostridium",FALSE,FALSE
+"Ruminococcus",FALSE,FALSE
+"Ruthenibacterium",FALSE,FALSE
+"Sarcina",FALSE,FALSE
+"Segatella",FALSE,FALSE
+"Sellimonas",TRUE,FALSE
+"Senegalimassilia",FALSE,FALSE
+"Slackia",FALSE,FALSE
+"Solobacterium",FALSE,FALSE
+"Streptococcus",FALSE,FALSE
+"Subdoligranulum",FALSE,FALSE
+"Succinatimonas",FALSE,FALSE
+"Succinivibrio",FALSE,FALSE
+"Sutterella",FALSE,FALSE
+"Synergistes",FALSE,FALSE
+"Terrisporobacter",FALSE,FALSE
+"Thomasclavelia",FALSE,FALSE
+"Tractidigestivibacter",FALSE,FALSE
+"Turicibacter",FALSE,FALSE
+"Turicimonas",FALSE,FALSE
+"Tyzzerella",FALSE,FALSE
+"UC5-1-2E3",FALSE,FALSE
+"UCG-002",FALSE,FALSE
+"UCG-003",FALSE,FALSE
+"UCG-004",FALSE,FALSE
+"UCG-005",FALSE,FALSE
+"UCG-007",FALSE,FALSE
+"UCG-008",FALSE,TRUE
+"UCG-009",FALSE,FALSE
+"Veillonella",FALSE,FALSE
+"Victivallis",FALSE,FALSE
+"Weissella",FALSE,FALSE
+"Z20",FALSE,FALSE
+"Zag_111",FALSE,FALSE

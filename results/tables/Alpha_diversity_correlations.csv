@@ -1,0 +1,7 @@
+Variable_1,Variable_2,n,spearman_rho,p_value
+Library Size,Observed Richness,40,-0.0257071823158401,0.87488487605086
+Library Size,Shannon Entropy,40,-0.152908067542214,0.34621067483075
+Library Size,Berger-Parker,40,-0.024202626641651,0.882154502385807
+Observed Richness,Shannon Entropy,40,0.819815179108799,9.76083971746756e-11
+Observed Richness,Berger-Parker,40,-0.607777835919753,3.1907952308715e-05
+Shannon Entropy,Berger-Parker,40,-0.869230769230769,3.48184745994233e-13

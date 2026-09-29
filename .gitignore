@@ -1,0 +1,15 @@
+raw_fastq/
+filt_fastq/
+taxa/
+*.zip
+*.fastq
+*.fastq.gz
+QC_reports/*.zip
+.Rhistory
+.RData
+.Rproj.user/
+results/logs/*.log
+results/logs/*/RESUMO.md
+metadata/
+*.rds
+QC_reports/multiqc_data/

@@ -1,0 +1,13 @@
+taxon,absent_in_all_T0,absent_in_all_T12,n_present_T0,n_present_T12
+Anaerotignum,TRUE,FALSE,0,2
+Butyricicoccus,TRUE,FALSE,0,2
+Citrobacter,FALSE,TRUE,6,0
+Eggerthella,TRUE,FALSE,0,2
+Enterococcus,TRUE,FALSE,0,4
+Faecalitalea,FALSE,TRUE,2,0
+GCA-900066755,TRUE,FALSE,0,3
+Olsenella,FALSE,TRUE,2,0
+Prevotellaceae NK3B31 group,TRUE,FALSE,0,2
+Raoultella,TRUE,FALSE,0,2
+Sellimonas,TRUE,FALSE,0,2
+UCG-008,FALSE,TRUE,2,0

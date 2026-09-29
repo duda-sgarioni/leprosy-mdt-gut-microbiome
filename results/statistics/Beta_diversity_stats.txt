@@ -1,0 +1,165 @@
+Samples: 40; patients: 20; genera (present in >= 20% of samples): 125
+
+PERMANOVA (Aitchison distance, ~ Patient + Group, permutations within patient):
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Blocks:  meta_data$Patient 
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = euclidean_dist ~ Patient + Group, data = meta_data, permutations = h1, by = "terms")
+         Df SumOfSqs      R2      F Pr(>F)    
+Patient  19  14039.6 0.70480 2.6364  1e-04 ***
+Group     1    555.1 0.02787 1.9805  1e-04 ***
+Residual 19   5325.3 0.26733                  
+Total    39  19920.0 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Homogeneity for Group:
+
+Permutation test for homogeneity of multivariate dispersions
+Blocks:  meta_data$Patient 
+Permutation: free
+Number of permutations: 9999
+
+Response: Distances
+          Df  Sum Sq Mean Sq      F N.Perm Pr(>F)
+Groups     1   4.108  4.1081 0.6078   9999 0.3307
+Residuals 38 256.848  6.7592                     
+
+
+Partial Redundancy Analysis:
+Model summary:
+
+Call:
+rda(formula = clr_pca ~ Group + Condition(Patient), data = meta_data) 
+
+Partitioning of variance:
+              Inertia Proportion
+Total          510.77    1.00000
+Conditioned    359.99    0.70480
+Constrained     14.23    0.02787
+Unconstrained  136.55    0.26733
+
+Eigenvalues, and their contribution to the variance 
+after removing the contribution of conditiniong variables
+
+Importance of components:
+                         RDA1     PC1     PC2     PC3      PC4     PC5     PC6
+Eigenvalue            14.2334 16.1559 15.5813 12.0769 11.63702 8.93921 8.71747
+Proportion Explained   0.0944  0.1071  0.1033  0.0801  0.07718 0.05929 0.05782
+Cumulative Proportion  0.0944  0.2015  0.3049  0.3850  0.46216 0.52145 0.57927
+                         PC7     PC8     PC9    PC10    PC11    PC12    PC13
+Eigenvalue            8.3524 7.71422 6.46747 5.95819 5.60162 5.35509 4.67796
+Proportion Explained  0.0554 0.05116 0.04289 0.03952 0.03715 0.03552 0.03103
+Cumulative Proportion 0.6347 0.68582 0.72872 0.76823 0.80538 0.84090 0.87192
+                         PC14    PC15    PC16    PC17    PC18    PC19
+Eigenvalue            4.25107 3.97291 3.59975 2.92061 2.57727 1.98951
+Proportion Explained  0.02819 0.02635 0.02387 0.01937 0.01709 0.01319
+Cumulative Proportion 0.90012 0.92647 0.95034 0.96971 0.98681 1.00000
+
+Accumulated constrained eigenvalues
+Importance of components:
+                       RDA1
+Eigenvalue            14.23
+Proportion Explained   1.00
+Cumulative Proportion  1.00
+
+Explanatory power:
+[1] 0.02690295
+
+Significance test:
+Permutation test for rda under reduced model
+Blocks:  meta_data$Patient 
+Permutation: free
+Number of permutations: 9999
+
+Model: rda(formula = clr_pca ~ Group + Condition(Patient), data = meta_data)
+         Df Variance      F Pr(>F)    
+Model     1   14.233 1.9805  1e-04 ***
+Residual 19  136.546                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Sensitivity analysis - excluding patients with T0 and T12 in different sequencing runs (P14, P17); patients: 18
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Blocks:  meta_same_run$Patient 
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = dist_same_run ~ Patient + Group, data = meta_same_run, permutations = h_same_run, by = "terms")
+         Df SumOfSqs      R2      F Pr(>F)    
+Patient  17  12810.6 0.69884 2.5743  1e-04 ***
+Group     1    544.3 0.02969 1.8594  1e-04 ***
+Residual 17   4976.3 0.27147                  
+Total    35  18331.2 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Sensitivity analysis - replacement treatment (ATS)
+ATS x adverse reaction (patients):
+   Adverse_reaction_up_to_T12
+ATS ENL N RR
+  N   1 8  2
+  Y   1 3  5
+
+Paired PERMANOVA within subgroup Without_ATS (patients: 11):
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Blocks:  meta_ats$Patient 
+Permutation: free
+Number of permutations: 2047
+
+adonis2(formula = dist_ats ~ Patient + Group, data = meta_ats, permutations = how(nperm = n_perm, blocks = meta_ats$Patient), by = "terms")
+         Df SumOfSqs      R2      F   Pr(>F)   
+Patient  10   6917.4 0.69736 2.6648 0.008789 **
+Group     1    406.2 0.04095 1.5646 0.008789 **
+Residual 10   2595.9 0.26170                   
+Total    21   9919.4 1.00000                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Paired PERMANOVA within subgroup With_ATS (patients: 9):
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Blocks:  meta_ats$Patient 
+Permutation: free
+Number of permutations: 511
+
+adonis2(formula = dist_ats ~ Patient + Group, data = meta_ats, permutations = how(nperm = n_perm, blocks = meta_ats$Patient), by = "terms")
+         Df SumOfSqs      R2      F   Pr(>F)   
+Patient   8   6173.2 0.68200 2.5863 0.007812 **
+Group     1    491.5 0.05430 1.6474 0.007812 **
+Residual  8   2386.9 0.26369                   
+Total    17   9051.6 1.00000                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+PERMANOVA of the per-patient change (CLR T12 - T0) ~ ATS:
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = delta_dist ~ ATS, data = meta_delta, permutations = n_perm)
+         Df SumOfSqs      R2      F Pr(>F)  
+Model     1    685.1 0.06433 1.2375  0.086 .
+Residual 18   9965.4 0.93567                
+Total    19  10650.6 1.00000                
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Homogeneity of the change between ATS groups:
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 9999
+
+Response: Distances
+          Df  Sum Sq Mean Sq      F N.Perm Pr(>F)
+Groups     1  13.397  13.397 0.8802   9999 0.3633
+Residuals 18 273.950  15.219                     

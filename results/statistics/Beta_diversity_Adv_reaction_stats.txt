@@ -1,0 +1,82 @@
+Patients (ENL excluded: P06, P09): 18; genera (present in >= 20% of samples): 117
+
+Sequencing run x reaction:
+   Reaction
+Run No reaction Reverse reaction
+  1           9                2
+  2           3                4
+Fisher's exact test: p = 0.141
+
+Sex x reaction:
+   Reaction
+Sex No reaction Reverse reaction
+  M           9                3
+  W           3                3
+Fisher's exact test: p = 0.344
+
+Baseline Analysis (main): ~ Adverse reaction, permutations within sequencing run
+Permutation test for adonis under reduced model
+Blocks:  meta_data$Run 
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = baseline_dist ~ Adverse.reaction, data = meta_data, permutations = how(nperm = n_perm, blocks = meta_data$Run))
+         Df SumOfSqs      R2      F Pr(>F)  
+Model     1    671.5 0.08335 1.4549 0.0318 *
+Residual 16   7385.4 0.91665                
+Total    17   8056.9 1.00000                
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Baseline Analysis (secondary): ~ Adverse reaction + Run + Sex, marginal effects
+Permutation test for adonis under reduced model
+Marginal effects of terms
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = baseline_dist ~ Adverse.reaction + Run + Sex, data = meta_data, permutations = n_perm, by = "margin")
+                 Df SumOfSqs      R2      F Pr(>F)
+Adverse.reaction  1    567.9 0.07048 1.2106 0.1663
+Run               1    377.6 0.04686 0.8049 0.8218
+Sex               1    467.4 0.05801 0.9965 0.4727
+Residual         14   6566.9 0.81506              
+Total            17   8056.9 1.00000              
+
+
+Homogeneity Analysis Reaction:
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 9999
+
+Response: Distances
+          Df Sum Sq Mean Sq      F N.Perm Pr(>F)
+Groups     1  5.630  5.6304 0.9972   9999 0.3369
+Residuals 16 90.341  5.6463                     
+
+
+Homogeneity Analysis Batch:
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 9999
+
+Response: Distances
+          Df  Sum Sq Mean Sq      F N.Perm Pr(>F)  
+Groups     1  36.657  36.657 4.9209   9999 0.0436 *
+Residuals 16 119.189   7.449                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Homogeneity Analysis Sex:
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 9999
+
+Response: Distances
+          Df  Sum Sq Mean Sq     F N.Perm Pr(>F)
+Groups     1   0.888  0.8884 0.126   9999 0.7251
+Residuals 16 112.783  7.0489                    

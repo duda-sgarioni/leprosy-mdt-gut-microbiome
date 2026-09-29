@@ -1,0 +1,127 @@
+Working directory: /home/hermes/duda/16SrRNA_analysis
+Warning message:
+package ‘phyloseq’ was built under R version 4.5.3 
+Warning message:
+package ‘ggplot2’ was built under R version 4.5.3 
+Kingdom  Phylum   Class   Order  Family   Genus Species 
+      0       8      13      54     278     731    1841 
+
+         Actinomycetota               Bacillota            Bacteroidota 
+                     40                    1516                     292 
+       Campylobacterota         Cyanobacteriota         Elusimicrobiota 
+                      4                      11                       1 
+         Fusobacteriota       Methanobacteriota         Patescibacteria 
+                     11                       4                       1 
+         Pseudomonadota           Spirochaetota            Synergistota 
+                     72                       1                       7 
+Thermodesulfobacteriota        Thermoplasmatota       Verrucomicrobiota 
+                     29                       3                      38 
+                   <NA> 
+                      8 
+                                           Stage                  Phylum n_taxa
+Actinomycetota          Before prevalence filter          Actinomycetota     40
+Bacillota               Before prevalence filter               Bacillota   1516
+Bacteroidota            Before prevalence filter            Bacteroidota    292
+Campylobacterota        Before prevalence filter        Campylobacterota      4
+Cyanobacteriota         Before prevalence filter         Cyanobacteriota     10
+Elusimicrobiota         Before prevalence filter         Elusimicrobiota      1
+Fusobacteriota          Before prevalence filter          Fusobacteriota     11
+Methanobacteriota       Before prevalence filter       Methanobacteriota      4
+Patescibacteria         Before prevalence filter         Patescibacteria      1
+Pseudomonadota          Before prevalence filter          Pseudomonadota     71
+Spirochaetota           Before prevalence filter           Spirochaetota      1
+Synergistota            Before prevalence filter            Synergistota      7
+Thermodesulfobacteriota Before prevalence filter Thermodesulfobacteriota     29
+Thermoplasmatota        Before prevalence filter        Thermoplasmatota      3
+Verrucomicrobiota       Before prevalence filter       Verrucomicrobiota     38
+                        mean_prevalence total_prevalence
+Actinomycetota                 3.525000              141
+Bacillota                      4.172823             6326
+Bacteroidota                   4.400685             1285
+Campylobacterota               1.000000                4
+Cyanobacteriota                1.300000               13
+Elusimicrobiota                1.000000                1
+Fusobacteriota                 1.181818               13
+Methanobacteriota              5.500000               22
+Patescibacteria                1.000000                1
+Pseudomonadota                 3.169014              225
+Spirochaetota                  1.000000                1
+Synergistota                   2.857143               20
+Thermodesulfobacteriota        2.965517               86
+Thermoplasmatota               3.000000                9
+Verrucomicrobiota              3.842105              146
+null device 
+          1 
+Proportional min_prevalence given: 0.05 --> min 2/40 samples.
+Taxa: 2038 -> without NA phylum: 2030 -> without chloroplast/mitochondria: 2028 -> prevalence >= 5%: 1064
+                                          Stage                  Phylum n_taxa
+Actinomycetota          After prevalence filter          Actinomycetota     18
+Bacillota               After prevalence filter               Bacillota    784
+Bacteroidota            After prevalence filter            Bacteroidota    178
+Cyanobacteriota         After prevalence filter         Cyanobacteriota      3
+Fusobacteriota          After prevalence filter          Fusobacteriota      2
+Methanobacteriota       After prevalence filter       Methanobacteriota      3
+Pseudomonadota          After prevalence filter          Pseudomonadota     26
+Synergistota            After prevalence filter            Synergistota      2
+Thermodesulfobacteriota After prevalence filter Thermodesulfobacteriota     17
+Thermoplasmatota        After prevalence filter        Thermoplasmatota      3
+Verrucomicrobiota       After prevalence filter       Verrucomicrobiota     28
+                        mean_prevalence total_prevalence
+Actinomycetota                 6.611111              119
+Bacillota                      7.135204             5594
+Bacteroidota                   6.578652             1171
+Cyanobacteriota                2.000000                6
+Fusobacteriota                 2.000000                4
+Methanobacteriota              7.000000               21
+Pseudomonadota                 6.923077              180
+Synergistota                   7.500000               15
+Thermodesulfobacteriota        4.352941               74
+Thermoplasmatota               3.000000                9
+Verrucomicrobiota              4.857143              136
+null device 
+          1 
+R version 4.5.2 (2025-10-31)
+Platform: x86_64-conda-linux-gnu
+Running under: Ubuntu 24.04.5 LTS
+
+Matrix products: default
+BLAS/LAPACK: /home/hermes/duda/.tools/r-4.5.2/lib/libopenblasp-r0.3.34.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Berlin
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_4.0.3   microViz_0.13.1 phyloseq_1.54.2
+
+loaded via a namespace (and not attached):
+ [1] tidyr_1.3.2         generics_0.1.4      stringi_1.8.9      
+ [4] lattice_0.23-1      digest_0.6.39       magrittr_2.0.5     
+ [7] grid_4.5.2          RColorBrewer_1.1-3  iterators_1.0.14   
+[10] foreach_1.5.2       plyr_1.8.9          jsonlite_2.0.0     
+[13] Matrix_1.7-5        ape_5.8-1           survival_3.8-12    
+[16] mgcv_1.9-4          purrr_1.2.2         scales_1.4.0       
+[19] permute_0.9-10      Biostrings_2.78.0   codetools_0.2-20   
+[22] ade4_1.7-24         cli_3.6.6           rlang_1.3.0        
+[25] crayon_1.5.3        XVector_0.50.0      Biobase_2.70.0     
+[28] splines_4.5.2       withr_3.0.3         vegan_2.7-5        
+[31] Rtsne_0.17          tools_4.5.2         parallel_4.5.2     
+[34] microbiome_1.32.0   reshape2_1.4.5      dplyr_1.2.1        
+[37] Rhdf5lib_1.32.0     multtest_2.66.0     BiocGenerics_0.56.0
+[40] vctrs_0.7.3         R6_2.6.1            rhdf5_2.54.1       
+[43] stats4_4.5.2        lifecycle_1.0.5     Seqinfo_1.0.0      
+[46] stringr_1.6.0       biomformat_1.38.3   S4Vectors_0.48.1   
+[49] IRanges_2.44.0      MASS_7.3-66         cluster_2.1.8.3    
+[52] pkgconfig_2.0.3     pillar_1.11.1       gtable_0.3.6       
+[55] data.table_1.18.6.1 glue_1.8.1          Rcpp_1.1.2         
+[58] tibble_3.3.1        tidyselect_1.2.1    rhdf5filters_1.22.0
+[61] farver_2.1.2        nlme_3.1-170        igraph_2.3.3       
+[64] labeling_0.4.3      compiler_4.5.2      S7_0.2.2           
